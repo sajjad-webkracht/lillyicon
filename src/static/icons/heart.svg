@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Heart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M448,405.3"/>
+	<path class="st0" d="M64,405.3"/>
+	<path class="st0" d="M448,405.3"/>
+	<path class="st0" d="M64,405.3"/>
+	<g>
+		<path d="M256,448c-53.8,0-192-116.6-192-245.3C64,121,112.2,64,181.3,64c27.7,0,53.9,9.6,74.7,26.8C276.7,73.6,302.9,64,330.7,64
+			C399.8,64,448,121,448,202.7C448,331.4,309.8,448,256,448z M181.3,106.7c-45.4,0-74.7,37.7-74.7,96c0,109.2,121,202.7,149.3,202.7
+			s149.3-93.5,149.3-202.7c0-58.3-29.3-96-74.7-96c-22.8,0-43.9,10.1-58,27.8c-8.1,10.2-25.3,10.2-33.4,0
+			C225.2,116.8,204.1,106.7,181.3,106.7z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,373 @@
+[
+    {
+      "id": "icon1",
+      "name": "Hamburger Menu",
+      "keywords": ["menu", "hamburger menu", "navigation", "dropdown menu", "sidebar menu", "context menu", "navigation bar", "navbar", "mobile menu", "responsive menu", "tab menu", "accordion menu", "mega menu", "flyout menu", "off-canvas menu", "submenu", "menu items", "menu bar", "menu design", "menu layout", "menu system", "menu structure", "menu toggle", "menu icon", "menu button", "menu options", "menu list", "menu links", "menu categories", "menu hierarchy", "menu accessibility", "menu usability", "menu animation", "menu customization", "menu styling", "menu templates", "menu plugins", "menu widgets", "menu UX", "menu UI", "website menu", "app menu", "desktop menu", "mobile navigation", "navigation menu", "navigation system", "navigation links", "navigation design", "navigation structure", "navigation bar", "navigation drawer", "navigation panel", "navigation accessibility", "navigation usability", "navigation animation", "navigation customization", "navigation styling", "navigation templates", "navigation plugins", "navigation widgets", "navigation UX", "navigation UI"],
+      "svg": "/static/icons/hamburger-menu.svg",
+      "rev": "/static/icons/hamburger-menu.rev",
+      "png": "/static/icons/hamburger-menu.png",
+      "riv": "/static/icons/hamburger-menu.riv",
+      "meta": "/static/icons/meta-hamburger-menu.png"
+    },
+    {
+      "id": "icon2",
+      "name": "Home",
+      "keywords": ["home", "homepage", "main page", "landing page", "front page", "welcome page", "start page", "home screen", "home section", "home design", "home layout", "home navigation", "home link", "home button", "home icon", "home menu", "home content", "home banner", "home slider", "home hero section", "home intro", "home header", "home footer", "home call to action", "home features", "home services", "home portfolio", "home blog", "home contact", "home about", "home testimonials", "home gallery", "home video", "home animation", "home customization", "home styling", "home templates", "home plugins", "home widgets", "home UX", "home UI", "website home", "app home", "desktop home", "mobile home", "responsive home", "home accessibility", "home usability", "home SEO", "home optimization", "home branding", "home marketing", "home conversion", "home analytics", "home user experience", "home user interface"],
+      "svg": "/static/icons/home.svg",
+      "rev": "/static/icons/home.rev",
+      "png": "/static/icons/home.png",
+      "riv": "/static/icons/home.riv",
+      "meta": "/static/icons/meta-home.png"
+    },
+    {
+      "id": "icon3",
+      "name": "Arrow Right",
+      "keywords": ["arrow right", "right arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow carousel", "arrow pagination", "arrow next", "arrow forward", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
+      "svg": "/static/icons/arrow-right.svg",
+      "rev": "/static/icons/arrow-right.rev",
+      "png": "/static/icons/arrow-right.png",
+      "riv": "/static/icons/arrow-right.riv",
+      "meta": "/static/icons/meta-arrow-right.png"
+    },
+    {
+      "id": "icon4",
+      "name": "Arrow Left",
+      "keywords": ["arrow left", "left arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow carousel", "arrow pagination", "arrow previous", "arrow back", "arrow reverse", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
+      "svg": "/static/icons/arrow-left.svg",
+      "rev": "/static/icons/arrow-left.rev",
+      "png": "/static/icons/arrow-left.png",
+      "riv": "/static/icons/arrow-left.riv",
+      "meta": "/static/icons/meta-arrow-left.png"
+    },
+    {
+      "id": "icon5",
+      "name": "Arrow Down",
+      "keywords": ["arrow down", "down arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow dropdown", "arrow collapse", "arrow expand", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
+      "svg": "/static/icons/arrow-down.svg",
+      "rev": "/static/icons/arrow-down.rev",
+      "png": "/static/icons/arrow-down.png",
+      "riv": "/static/icons/arrow-down.riv",
+      "meta": "/static/icons/meta-arrow-down.png"
+    },
+    {
+      "id": "icon6",
+      "name": "Arrow Up",
+      "keywords": ["arrow up", "up arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow back to top", "arrow collapse", "arrow expand", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
+      "svg": "/static/icons/arrow-up.svg",
+      "rev": "/static/icons/arrow-up.rev",
+      "png": "/static/icons/arrow-up.png",
+      "riv": "/static/icons/arrow-up.riv",
+      "meta": "/static/icons/meta-arrow-up.png"
+    },
+    {
+      "id": "icon7",
+      "name": "Close",
+      "keywords": ["close", "close button", "exit", "x", "cancel icon", "delete icon", "remove icon", "dismiss icon", "close symbol", "close UI", "close UX", "close design", "close vector", "close SVG", "close PNG", "close animation", "close hover", "close interaction", "close web design", "close app design", "close mobile", "close desktop", "close responsive", "close accessibility", "close usability", "close user experience", "close user interface", "close graphic", "close illustration", "close motion design", "close click", "close functionality", "close element", "close widget", "close template", "close plugin", "close styling", "close customization", "close cursor", "close pointer", "close indicator", "close navigation", "close modal", "close popup", "close window", "close tab", "close menu", "close overlay", "close notification"],
+      "svg": "/static/icons/close.svg",
+      "rev": "/static/icons/close.rev",
+      "png": "/static/icons/close.png",
+      "riv": "/static/icons/close.riv",
+      "meta": "/static/icons/meta-close.png"
+    },
+    {
+      "id": "icon8",
+      "name": "Search",
+      "keywords": ["search", "search button", "magnifying glass icon", "find icon", "search symbol", "search UI", "search UX", "search design", "search vector", "search SVG", "search PNG", "search animation", "search hover", "search interaction", "search web design", "search app design", "search mobile", "search desktop", "search responsive", "search accessibility", "search usability", "search user experience", "search user interface", "search graphic", "search illustration", "search motion design", "search click", "search functionality", "search element", "search widget", "search template", "search plugin", "search styling", "search customization", "search cursor", "search pointer", "search indicator", "search navigation", "search bar", "search input", "search field", "search tool", "search feature", "search interface", "search experience"],
+      "svg": "/static/icons/search.svg",
+      "rev": "/static/icons/search.rev",
+      "png": "/static/icons/search.png",
+      "riv": "/static/icons/search.riv",
+      "meta": "/static/icons/meta-search.png"
+    },
+    {
+      "id": "icon9",
+      "name": "Download",
+      "keywords": ["download", "download button", "download symbol", "download arrow", "save icon", "download UI", "download UX", "download design", "download vector", "download SVG", "download PNG", "download animation", "download hover", "download interaction", "download web design", "download app design", "download mobile", "download desktop", "download responsive", "download accessibility", "download usability", "download user experience", "download user interface", "download graphic", "download illustration", "download motion design", "download click", "download functionality", "download element", "download widget", "download template", "download plugin", "download styling", "download customization", "download cursor", "download pointer", "download indicator", "download navigation", "download file", "download feature", "download interface", "download experience", "download progress", "download action", "download option", "download link", "download tool"],
+      "svg": "/static/icons/download.svg",
+      "rev": "/static/icons/download.rev",
+      "png": "/static/icons/download.png",
+      "riv": "/static/icons/download.riv",
+      "meta": "/static/icons/meta-download.png"
+    },
+    {
+      "id": "icon10",
+      "name": "Upload",
+      "keywords": ["upload", "upload button", "upload symbol", "upload arrow", "upload icon", "upload UI", "upload UX", "upload design", "upload vector", "upload SVG", "upload PNG", "upload animation", "upload hover", "upload interaction", "upload web design", "upload app design", "upload mobile", "upload desktop", "upload responsive", "upload accessibility", "upload usability", "upload user experience", "upload user interface", "upload graphic", "upload illustration", "upload motion design", "upload click", "upload functionality", "upload element", "upload widget", "upload template", "upload plugin", "upload styling", "upload customization", "upload cursor", "upload pointer", "upload indicator", "upload navigation", "upload file", "upload feature", "upload interface", "upload experience", "upload progress", "upload action", "upload option", "upload link", "upload tool", "cloud upload", "file upload", "image upload", "document upload", "media upload", "data upload", "content upload", "upload to cloud", "upload to server", "upload to website", "upload system", "upload process", "upload status", "upload indicator", "upload graphic", "upload design", "upload vector", "upload SVG", "upload PNG", "upload icon set", "online upload", "web upload", "mobile upload", "app upload", "website upload", "platform upload", "dashboard upload", "user upload", "admin upload", "file management", "cloud storage", "data transfer", "digital upload", "internet upload", "network upload", "remote upload", "arrow up icon", "upward arrow", "file with arrow", "cloud with arrow", "folder upload", "document upload", "image upload", "media upload", "upload symbol design", "flat upload icon", "minimal upload icon", "modern upload icon", "simple upload icon", "outline upload icon", "filled upload icon", "colored upload icon", "monochrome upload icon", "iOS upload icon", "Android upload icon", "Windows upload icon", "Mac upload icon", "web app upload icon", "mobile app upload icon", "social media upload icon", "e-commerce upload icon", "CMS upload icon", "SaaS upload icon", "accessible upload icon", "upload icon for visually impaired", "upload icon for screen readers", "ARIA upload icon", "upload icon with label", "descriptive upload icon", "clear upload icon", "intuitive upload icon", "animated upload icon", "upload icon animation", "loading upload icon", "progress upload icon", "interactive upload icon", "hover upload icon", "click upload icon", "upload icon motion design", "Lottie upload icon", "Rive upload icon", "After Effects upload icon", "upload icon in Spanish", "upload icon in French", "upload icon in Arabic", "localized upload icon", "culturally relevant upload icon"],
+      "svg": "/static/icons/upload.svg",
+      "rev": "/static/icons/upload.rev",
+      "png": "/static/icons/upload.png",
+      "riv": "/static/icons/upload.riv",
+      "meta": "/static/icons/meta-upload.png"
+    },
+    {
+      "id": "icon11",
+      "name": "Share",
+      "keywords": ["share", "share button", "share symbol", "share icon", "share arrow", "share UI", "share UX", "share design", "share vector", "share SVG", "share PNG", "share animation", "share hover", "share interaction", "share web design", "share app design", "share mobile", "share desktop", "share responsive", "share accessibility", "share usability", "share user experience", "share user interface", "share graphic", "share illustration", "share motion design", "share click", "share functionality", "share element", "share widget", "share template", "share plugin", "share styling", "share customization", "share cursor", "share pointer", "share indicator", "share navigation", "share file", "share feature", "share interface", "share experience", "share progress", "share action", "share option", "share link", "share tool", "social share", "media share", "content share", "post share", "send share", "forward share", "broadcast share", "network share", "collaborate share", "export share", "distribute share", "publish share", "upload share", "download share", "share to social media", "share to Facebook", "share to Twitter", "share to Instagram", "share to LinkedIn", "share to WhatsApp", "share to email", "share to cloud", "share to device", "share to friend", "share to group", "share to team", "share to community", "share to network", "share to platform", "share to website", "share to app", "share to mobile", "share to desktop", "share to web", "share to server", "share to folder", "share to document", "share to image", "share to video", "share to audio", "share to file", "share to data", "share to content", "share to media", "share to post", "share to story", "share to feed", "share to timeline", "share to profile", "share to page", "share to channel", "share to group chat", "share to message", "share to SMS", "share to text", "share to clipboard", "share to QR code", "share to link", "share to URL", "share to embed", "share to code", "share to API", "share to integration", "share to plugin", "share to extension", "share to add-on", "share to widget", "share to button", "share to icon", "share to symbol", "share to graphic", "share to illustration", "share to animation", "share to motion design", "share to Lottie", "share to Rive", "share to After Effects", "share to Figma", "share to Sketch", "share to Adobe XD"],
+      "svg": "/static/icons/share.svg",
+      "rev": "/static/icons/share.rev",
+      "png": "/static/icons/share.png",
+      "riv": "/static/icons/share.riv",
+      "meta": "/static/icons/meta-share.png"
+    },
+    {
+      "id": "icon12",
+      "name": "Star",
+      "keywords": ["star", "star icon", "star symbol", "star button", "star rating", "star UI", "star UX", "star design", "star vector", "star SVG", "star PNG", "star animation", "star hover", "star interaction", "star rating system", "favorite", "favorite icon", "bookmark", "bookmark icon", "highlight", "highlight icon", "rate", "rate icon", "review", "review icon", "quality", "quality icon", "achievement", "achievement icon", "badge", "badge icon", "award", "award icon", "gold star", "silver star", "bronze star", "star outline", "filled star", "empty star", "half star", "star progress", "star indicator", "star navigation", "star element", "star widget", "star template", "star plugin", "star styling", "star customization", "star cursor", "star pointer", "star graphic", "star illustration", "star motion design", "star click", "star functionality", "star feature", "star interface", "star experience", "star action", "star option", "star link", "star tool", "star to favorite", "star to rate", "star to review", "star to highlight", "star to bookmark", "star to award", "star to badge", "star to achievement", "star to quality", "star to gold", "star to silver", "star to bronze", "star to outline", "star to filled", "star to empty", "star to half", "star to progress", "star to indicator", "star to navigation", "star to element", "star to widget", "star to template", "star to plugin", "star to styling", "star to customization", "star to cursor", "star to pointer", "star to graphic", "star to illustration", "star to motion design", "star to click", "star to functionality", "star to feature", "star to interface", "star to experience", "star to action", "star to option", "star to link", "star to tool"],
+      "svg": "/static/icons/star.svg",
+      "rev": "/static/icons/star.rev",
+      "png": "/static/icons/star.png",
+      "riv": "/static/icons/star.riv",
+      "meta": "/static/icons/meta-star.png"
+    },
+    {
+      "id": "icon13",
+      "name": "Edit",
+      "keywords": ["edit", "pen", "edit symbol", "edit button", "edit UI", "edit UX", "edit design", "edit vector", "edit SVG", "edit PNG", "edit animation", "edit hover", "edit interaction", "edit tool", "edit pencil", "pencil icon", "modify", "modify icon", "update", "update icon", "change", "change icon", "adjust", "adjust icon", "revise", "revise icon", "correct", "correct icon", "rewrite", "rewrite icon", "edit text", "edit file", "edit document", "edit image", "edit content", "edit settings", "edit profile", "edit details", "edit form", "edit layout", "edit mode", "edit feature", "edit functionality", "edit element", "edit widget", "edit template", "edit plugin", "edit styling", "edit customization", "edit cursor", "edit pointer", "edit graphic", "edit illustration", "edit motion design", "edit click", "edit action", "edit option", "edit link", "edit progress", "edit indicator", "edit navigation", "edit interface", "edit experience", "edit to modify", "edit to update", "edit to change", "edit to adjust", "edit to revise", "edit to correct", "edit to rewrite", "edit to text", "edit to file", "edit to document", "edit to image", "edit to content", "edit to settings", "edit to profile", "edit to details", "edit to form", "edit to layout", "edit to mode", "edit to feature", "edit to functionality", "edit to element", "edit to widget", "edit to template", "edit to plugin", "edit to styling", "edit to customization", "edit to cursor", "edit to pointer", "edit to graphic", "edit to illustration", "edit to motion design", "edit to click", "edit to action", "edit to option", "edit to link", "edit to progress", "edit to indicator", "edit to navigation", "edit to interface", "edit to experience"],
+      "svg": "/static/icons/edit.svg",
+      "rev": "/static/icons/edit.rev",
+      "png": "/static/icons/edit.png",
+      "riv": "/static/icons/edit.riv",
+      "meta": "/static/icons/meta-edit.png"
+    },
+    {
+      "id": "icon14",
+      "name": "Remove",
+      "keywords": ["remove", "remove icon", "remove symbol", "remove button", "delete", "delete icon", "delete symbol", "delete button", "trash", "trash icon", "trash symbol", "trash button", "clear", "clear icon", "erase", "erase icon", "cancel", "cancel icon", "close", "close icon", "x icon", "x button", "minus", "minus icon", "remove item", "delete item", "trash bin", "remove UI", "remove UX", "remove design", "remove vector", "remove SVG", "remove PNG", "remove animation", "remove hover", "remove interaction", "delete tool", "trash can", "remove feature", "remove functionality", "delete action", "trash action", "remove element", "delete element", "trash element", "remove widget", "delete widget", "trash widget", "remove template", "delete template", "trash template", "remove plugin", "delete plugin", "trash plugin", "remove styling", "delete styling", "trash styling", "remove customization", "delete customization", "trash customization", "remove cursor", "delete cursor", "trash cursor", "remove pointer", "delete pointer", "trash pointer", "remove graphic", "delete graphic", "trash graphic", "remove illustration", "delete illustration", "trash illustration", "remove motion design", "delete motion design", "trash motion design", "remove click", "delete click", "trash click", "remove action", "delete action", "trash action", "remove option", "delete option", "trash option", "remove link", "delete link", "trash link", "remove progress", "delete progress", "trash progress", "remove indicator", "delete indicator", "trash indicator", "remove navigation", "delete navigation", "trash navigation", "remove interface", "delete interface", "trash interface", "remove experience", "delete experience", "trash experience"],
+      "svg": "/static/icons/remove.svg",
+      "rev": "/static/icons/remove.rev",
+      "png": "/static/icons/remove.png",
+      "riv": "/static/icons/remove.riv",
+      "meta": "/static/icons/meta-remove.png"
+    },
+    {
+      "id": "icon15",
+      "name": "Plus",
+      "keywords": ["plus", "add", "add icon", "plus icon", "create", "new", "new item", "add item", "add new", "add button", "insert", "insert item", "append", "add to list", "add to cart", "add to folder", "add to collection", "add user", "add contact", "add file", "add image", "add photo", "add product", "add content", "add event", "add note", "add task", "add entry", "add document", "add element", "add row", "add column", "add block", "add component", "add section", "add page", "add feature", "add tool", "add function", "add field",  "add option", "add setting", "add shortcut", "add module", "add integration", "add account", "add bookmark", "add favorite", "add friend", "add link", "add tab", "add playlist", "add tag", "add category", "add folder", "add project", "add file", "add layer", "add group", "add team", "add member", "plus sign", "plus symbol", "+ symbol", "plus circle", "plus square", "plus button", "add icon design", "add icon UI", "add icon UX", "add icon accessibility", "add icon usability", "create new", "add functionality"],
+      "svg": "/static/icons/plus.svg",
+      "rev": "/static/icons/plus.rev",
+      "png": "/static/icons/plus.png",
+      "riv": "/static/icons/plus.riv",
+      "meta": "/static/icons/meta-plus.png"
+    },
+    {
+      "id": "icon16",
+      "name": "Repeat",
+      "keywords": ["repeat", "repeat icon", "loop", "loop icon", "redo", "cycle", "replay", "replay icon", "repeat action", "repeat button", "repeat function", "repeat command", "repeat task", "repeat process", "repeat operation", "repeat pattern", "repeat motion", "repeat symbol", "repeat sign", "repeat cycle", "repeat action icon", "loop button", "loop mode", "repeat mode", "loop playback", "repeat playback", "media repeat", "audio repeat", "video repeat", "music repeat", "song repeat", "repeat track", "repeat song", "repeat playlist", "repeat animation", "repeat interaction", "repeat state", "repeat feature", "repeat tool", "repeat design", "repeat UI", "repeat UX", "repeat element", "repeat content", "repeat item", "repeat layer", "repeat transition", "repeat toggle", "repeat functionality", "repeat navigation", "repeat interface", "repeat behavior", "repeat loop", "auto repeat", "repeating action", "repeat sequence", "repeat gesture", "repeat shortcut", "repeat control"],
+      "svg": "/static/icons/repeat.svg",
+      "rev": "/static/icons/repeat.rev",
+      "png": "/static/icons/repeat.png",
+      "riv": "/static/icons/repeat.riv",
+      "meta": "/static/icons/meta-repeat.png"
+    },
+    {
+      "id": "icon17",
+      "name": "Photo",
+      "keywords": ["photo", "photo icon", "image", "image icon", "picture", "picture icon", "gallery", "photo gallery", "image gallery", "photo album", "camera", "camera icon", "snapshot", "photograph", "take photo", "capture photo", "upload photo", "upload image", "add photo", "add image", "photo file", "image file", "media file", "photo content", "visual content", "photo attachment", "photo viewer", "image viewer", "picture viewer", "photo mode", "camera mode", "photo settings", "image settings", "photo editing", "image editing", "photo editor", "image editor", "photo tools", "image tools", "photo UI", "image UI", "photo UX", "image UX", "media gallery", "media content", "media icon", "photo format", "image format", "photo preview", "image preview", "photo layout", "image layout", "photo component", "image component", "digital photo", "digital image", "photo collection", "image collection", "photo folder", "photo management", "photo organization", "photo sharing", "image sharing", "photo library", "photo storage", "photo display", "image display", "photo showcase", "image showcase"],
+      "svg": "/static/icons/photo.svg",
+      "rev": "/static/icons/photo.rev",
+      "png": "/static/icons/photo.png",
+      "riv": "/static/icons/photo.riv",
+      "meta": "/static/icons/meta-photo.png"
+    },
+    {
+      "id": "icon18",
+      "name": "Heart",
+      "keywords": ["heart", "heart icon", "like", "like icon", "love", "love icon", "favorite", "favorite icon", "wishlist", "add to wishlist", "save to favorites", "liked", "liked icon", "hearted", "heart symbol", "love symbol", "like button", "love button", "favorite button", "emotional icon", "romantic icon", "relationship icon", "affection", "care", "caring", "support", "support icon", "heart shape", "filled heart", "outlined heart", "empty heart", "broken heart", "heart design", "heart graphic", "heart emoji", "heart button", "heart marker", "heart reaction", "reaction icon", "feedback icon", "user reaction", "emotive icon", "emotional feedback", "social icon", "social media icon", "like reaction", "love reaction", "user interaction", "heart UI", "heart UX", "heart toggle", "heart interaction", "heart click", "heart tap", "heart animation", "heart state", "heart status", "user engagement", "engagement icon", "relationship status", "relationship symbol", "romantic gesture", "emotional gesture"],
+      "svg": "/static/icons/heart.svg",
+      "rev": "/static/icons/heart.rev",
+      "png": "/static/icons/heart.png",
+      "riv": "/static/icons/heart.riv",
+      "meta": "/static/icons/meta-heart.png"
+    },
+    {
+      "id": "icon19",
+      "name": "Clock",
+      "keywords": ["clock", "clock icon", "time", "time icon", "watch", "watch icon", "alarm", "alarm icon", "timer", "timer icon", "stopwatch", "stopwatch icon", "schedule", "calendar time", "time management", "time tracking", "track time", "countdown", "countdown timer", "time indicator", "time display", "time picker", "clock symbol", "wall clock", "analog clock", "digital clock", "hour", "minute", "second", "24-hour clock", "12-hour clock", "set time", "time settings", "alarm clock", "reminder icon", "meeting time", "appointment", "event time", "working hours", "clock face", "clock dial", "clock hands", "clock UI", "clock UX", "time UI", "time UX", "schedule icon", "deadline", "time marker", "time log", "time zone", "clock widget", "clock design", "time functionality", "timestamp", "time symbol", "date and time", "time interface", "real-time", "time update", "current time", "time display element"],
+      "svg": "/static/icons/clock.svg",
+      "rev": "/static/icons/clock.rev",
+      "png": "/static/icons/clock.png",
+      "riv": "/static/icons/clock.riv",
+      "meta": "/static/icons/meta-clock.png"
+    },
+    {
+      "id": "icon20",
+      "name": "Timer",
+      "keywords": ["timer", "timer icon", "countdown", "countdown timer", "stopwatch", "stopwatch icon", "clock", "clock icon", "time", "time icon", "alarm", "alarm icon", "time tracking", "track time", "time measurement", "time monitor", "interval timer", "set timer", "start timer", "stop timer", "pause timer", "resume timer", "timer settings", "timer control", "timer button", "time countdown", "elapsed time", "remaining time", "time limit", "time duration", "time interval", "task timer", "work timer", "focus timer", "study timer", "pomodoro timer", "productivity timer", "kitchen timer", "digital timer", "analog timer", "event timer", "reminder timer", "short timer", "long timer", "time alert", "timer display", "timer screen", "timer app", "timer interface", "timer UI", "timer UX", "timer symbol", "time tool", "clock tool", "time indicator", "time tracker", "timer management", "countdown display", "countdown tool", "timer widget", "start countdown", "pause countdown", "reset timer", "repeat timer"],
+      "svg": "/static/icons/timer.svg",
+      "rev": "/static/icons/timer.rev",
+      "png": "/static/icons/timer.png",
+      "riv": "/static/icons/timer.riv",
+      "meta": "/static/icons/meta-timer.png"
+    },
+    {
+      "id": "icon21",
+      "name": "Eye",
+      "keywords": ["eye", "eye icon", "view", "view icon", "visibility", "visibility icon", "show", "show icon", "preview", "preview icon", "watch", "watch icon", "see", "see icon", "seen", "visible", "visible icon", "view content", "content visibility", "eye symbol", "eye shape", "open eye", "eye open", "eye UI", "eye UX", "eye button", "eye toggle", "visibility toggle", "show content", "view details", "display content", "see details", "see content", "read mode", "reading mode", "watch content", "monitor", "monitor icon", "surveillance", "surveillance icon", "eye control", "visibility status", "visibility control", "interface visibility", "eye design", "eye tracking", "eye element", "visibility indicator", "eye viewer", "display viewer", "preview mode", "toggle view", "toggle visibility", "user view", "view status", "accessibility icon", "eye accessibility", "content preview", "reveal content", "eye feature"],
+      "svg": "/static/icons/eye.svg",
+      "rev": "/static/icons/eye.rev",
+      "png": "/static/icons/eye.png",
+      "riv": "/static/icons/eye.riv",
+      "meta": "/static/icons/meta-eye.png"
+    },
+    {
+      "id": "icon22",
+      "name": "Bulb",
+      "keywords": ["bulb", "bulb icon", "light bulb", "light bulb icon", "idea", "idea icon", "innovation", "inspiration", "creative idea", "bright idea", "new idea", "think", "thinking icon", "thought", "thought icon", "insight", "solution", "solution icon", "concept", "concept icon", "imagination", "brainstorm", "brainstorming", "mind icon", "spark", "spark of idea", "light", "lighting", "on light", "bulb on", "bulb off", "electric bulb", "energy", "energy icon", "electricity", "illumination", "illumination icon", "intelligence", "smart thinking", "smart idea", "light source", "glowing bulb", "glow icon", "creativity", "creative thinking", "design thinking", "smart solution", "innovation icon", "idea spark", "light icon", "lamp", "lamp icon", "vision", "visionary", "light UI", "light UX", "bulb symbol", "light concept", "idea concept"],
+      "svg": "/static/icons/bulb.svg",
+      "rev": "/static/icons/bulb.rev",
+      "png": "/static/icons/bulb.png",
+      "riv": "/static/icons/bulb.riv",
+      "meta": "/static/icons/meta-bulb.png"
+    },
+    {
+      "id": "icon23",
+      "name": "Location",
+      "keywords": ["location", "location icon", "map", "map icon", "pin", "pin icon", "marker", "marker icon", "place", "place icon", "gps", "gps icon", "geolocation", "navigation", "navigation icon", "destination", "destination icon", "position", "current location", "find location", "track location", "location tracking", "location services", "map marker", "map pin", "drop pin", "location point", "location tag", "address icon", "address marker", "map location", "geo pin", "geo marker", "geo icon", "point on map", "location indicator", "location pointer", "travel icon", "route icon", "waypoint", "coordinates", "location info", "area icon", "territory", "direction icon", "location UI", "location UX", "location symbol", "spot icon", "position icon", "region icon", "place finder", "location search", "map interface", "pinpoint", "location selector", "check-in", "check-in icon", "location label", "site icon", "locate"],
+      "svg": "/static/icons/location.svg",
+      "rev": "/static/icons/location.rev",
+      "png": "/static/icons/location.png",
+      "riv": "/static/icons/location.riv",
+      "meta": "/static/icons/meta-location.png"
+    },
+    {
+      "id": "icon24",
+      "name": "Lock",
+      "keywords": ["lock", "lock icon", "security", "security icon", "privacy", "privacy icon", "protected", "protection", "secure", "secure icon", "padlock", "padlock icon", "locked", "locked icon", "private", "access control", "restricted access", "password", "password icon", "login security", "authentication", "authorization", "data protection", "data security", "account security", "secure access", "lock screen", "app lock", "file lock", "folder lock", "locked content", "security lock", "encrypted", "encryption", "privacy settings", "user privacy", "lock symbol", "lock button", "lock UI", "lock UX", "lock status", "lock toggle", "lock feature", "digital lock", "online security", "lock protection", "security settings", "lock system", "confidential", "confidential icon", "locked interface", "lock design", "lock mode", "lock option", "lock mechanism", "safety", "safety icon", "cybersecurity", "secure zone", "identity protection"],
+      "svg": "/static/icons/lock.svg",
+      "rev": "/static/icons/lock.rev",
+      "png": "/static/icons/lock.png",
+      "riv": "/static/icons/lock.riv",
+      "meta": "/static/icons/meta-lock.png"
+    },
+    {
+      "id": "icon25",
+      "name": "Document",
+      "keywords": ["document", "document icon", "file", "file icon", "paper", "paper icon", "text file", "doc", "doc icon", "pdf", "pdf icon", "report", "report icon", "note", "notes", "note icon", "sheet", "sheet icon", "form", "form icon", "contract", "contract icon", "agreement", "document file", "digital document", "online document", "document layout", "document page", "document template", "file format", "text document", "written content", "document viewer", "document editor", "document management", "document sharing", "upload document", "download document", "open file", "save file", "edit document", "view document", "document details", "document icon UI", "document UX", "document symbol", "legal document", "business document", "paperwork", "file attachment", "attachment icon", "document folder", "file folder", "office document", "work document", "project document", "document content", "file system", "data file", "print document", "document scan", "scanned file"],
+      "svg": "/static/icons/document.svg",
+      "rev": "/static/icons/document.rev",
+      "png": "/static/icons/document.png",
+      "riv": "/static/icons/document.riv",
+      "meta": "/static/icons/meta-document.png"
+    },
+    {
+      "id": "icon26",
+      "name": "Gift",
+      "keywords": ["gift", "gift icon", "present", "present icon", "surprise", "surprise icon", "reward", "reward icon", "bonus", "bonus icon", "package", "package icon", "wrapped gift", "gift box", "gift wrap", "holiday gift", "birthday gift", "special offer", "gift card", "gift voucher", "giveaway", "giveaway icon", "promotion", "promotional gift", "discount gift", "gift item", "freebie", "celebration", "celebration icon", "event gift", "anniversary gift", "thank you gift", "gift delivery", "gift pack", "holiday present", "seasonal gift", "gift offer", "e-gift", "gift icon UI", "gift UX", "gift symbol", "gift reward", "app reward", "gift notification", "loyalty gift", "user reward", "customer reward", "gift deal", "gift surprise", "special gift", "event giveaway", "marketing gift", "exclusive gift", "gift promotion", "festive gift", "gift for you", "gift feature", "digital gift", "virtual gift"],
+      "svg": "/static/icons/gift.svg",
+      "rev": "/static/icons/gift.rev",
+      "png": "/static/icons/gift.png",
+      "riv": "/static/icons/gift.riv",
+      "meta": "/static/icons/meta-gift.png"
+    },
+    {
+      "id": "icon27",
+      "name": "Camera",
+      "keywords": ["camera", "camera icon", "photo", "photo icon", "photography", "photography icon", "take photo", "capture", "capture icon", "snap", "snapshot", "picture", "picture icon", "shoot", "camera lens", "digital camera", "video camera", "camera app", "camera UI", "camera UX", "record", "record icon", "camera shot", "camera flash", "camera settings", "camera mode", "photo capture", "image capture", "camera functionality", "camera symbol", "camera tool", "camera device", "lens icon", "camera button", "selfie", "selfie icon", "camera click", "camera preview", "camera interface", "media capture", "media tool", "photo shoot", "take a picture", "record video", "camera recording", "camera snap", "camera screen", "live photo", "photo mode", "camera option", "cam", "camera equipment", "webcam", "webcam icon", "portable camera", "dslr icon", "action camera", "photo and video", "camera view", "camera feature"],
+      "svg": "/static/icons/camera.svg",
+      "rev": "/static/icons/camera.rev",
+      "png": "/static/icons/camera.png",
+      "riv": "/static/icons/camera.riv",
+      "meta": "/static/icons/meta-camera.png"
+    },
+    {
+      "id": "icon28",
+      "name": "Crown",
+      "keywords": ["crown", "crown icon", "king", "queen", "royalty", "royal icon", "monarch", "monarchy", "noble", "noble icon", "luxury", "luxury icon", "premium", "premium icon", "elite", "elite icon", "vip", "vip icon", "winner", "winner icon", "achievement", "achievement icon", "reward", "reward icon", "leader", "leadership", "top rank", "ranking", "ranking icon", "top status", "exclusive", "exclusive icon", "prestige", "prestigious", "honor", "honor icon", "glory", "glory icon", "champion", "champion icon", "gold crown", "silver crown", "royal crown", "crown badge", "status symbol", "crown emblem", "crown badge icon", "success icon", "title", "title icon", "trophy", "trophy icon", "crown UI", "crown UX", "crown design", "crown graphic", "crown reward", "crown feature", "crown element", "game rank", "game achievement", "level up", "level badge", "ranking badge", "crown symbol"],
+      "svg": "/static/icons/crown.svg",
+      "rev": "/static/icons/crown.rev",
+      "png": "/static/icons/crown.png",
+      "riv": "/static/icons/crown.riv",
+      "meta": "/static/icons/meta-crown.png"
+    },
+    {
+      "id": "icon29",
+      "name": "Calendar",
+      "keywords": ["calendar", "calendar icon", "date", "date icon", "schedule", "schedule icon", "event", "event icon", "planner", "planner icon", "appointment", "appointment icon", "timeline", "timeline icon", "reminder", "reminder icon", "meeting", "meeting icon", "daily planner", "weekly planner", "monthly planner", "calendar app", "calendar UI", "calendar UX", "calendar design", "calendar layout", "calendar view", "calendar tool", "calendar interface", "calendar element", "calendar feature", "calendar event", "calendar day", "calendar week", "calendar month", "calendar year", "calendar page", "calendar settings", "calendar widget", "calendar notification", "date picker", "schedule planner", "schedule manager", "task planner", "calendar schedule", "calendar reminder", "calendar note", "organizer", "organizer icon", "event planner", "booking calendar", "work calendar", "calendar system", "calendar symbol", "calendar tracker", "time planner", "calendar marker", "calendar date", "calendar timeline", "calendar management"],
+      "svg": "/static/icons/calendar.svg",
+      "rev": "/static/icons/calendar.rev",
+      "png": "/static/icons/calendar.png",
+      "riv": "/static/icons/calendar.riv",
+      "meta": "/static/icons/meta-calendar.png"
+    },
+    {
+      "id": "icon30",
+      "name": "Growth",
+      "keywords": ["growth", "growth icon", "increase", "increase icon", "progress", "progress icon", "success", "success icon", "upward", "upward icon", "arrow up", "arrow growth", "positive trend", "analytics", "analytics icon", "performance", "performance icon", "chart", "chart icon", "graph", "graph icon", "bar chart", "line chart", "rising", "improvement", "expansion", "development", "business growth", "sales growth", "revenue growth", "financial growth", "economic growth", "user growth", "audience growth", "growth rate", "growth curve", "growth trend", "data growth", "growth stats", "increase in numbers", "market growth", "startup growth", "growth metrics", "growing chart", "up trend", "success graph", "growth report", "growth indicator", "growth dashboard", "business chart", "statistics", "performance growth", "upward trend", "scaling", "scale up", "growth visualization", "goal achievement", "growth strategy", "growth planning", "growth tracking"],
+      "svg": "/static/icons/growth.svg",
+      "rev": "/static/icons/growth.rev",
+      "png": "/static/icons/growth.png",
+      "riv": "/static/icons/growth.riv",
+      "meta": "/static/icons/meta-growth.png"
+    },
+    {
+      "id": "icon31",
+      "name": "Map",
+      "keywords": ["map", "map icon", "navigation", "navigation icon", "location", "location icon", "route", "route icon", "direction", "direction icon", "travel", "travel icon", "journey", "journey icon", "roadmap", "roadmap icon", "path", "path icon", "geolocation", "geo map", "map view", "map marker", "map pin", "map pointer", "map interface", "map layout", "map system", "map design", "map feature", "map UX", "map UI", "city map", "country map", "world map", "area map", "territory map", "map navigation", "map tracking", "map location", "map tools", "map elements", "interactive map", "digital map", "mobile map", "map app", "map platform", "mapping service", "street map", "satellite map", "map visualization", "map data", "map route", "map journey", "map direction", "map planning", "exploration", "explore map", "map overview", "trip planner", "map system design", "cartography", "travel planner"],
+      "svg": "/static/icons/map.svg",
+      "rev": "/static/icons/map.rev",
+      "png": "/static/icons/map.png",
+      "riv": "/static/icons/map.riv",
+      "meta": "/static/icons/meta-map.png"
+    },
+    {
+      "id": "icon32",
+      "name": "Chat",
+      "keywords": ["chat", "chat icon", "message", "message icon", "conversation", "conversation icon", "talk", "talk icon", "text", "text icon", "communication", "communication icon", "discussion", "discussion icon", "dialogue", "dialog icon", "chat bubble", "speech bubble", "chatbox", "chat window", "chat app", "messaging", "messaging icon", "live chat", "support chat", "customer chat", "user chat", "group chat", "private chat", "instant message", "direct message", "DM", "reply", "send message", "inbox", "chat interface", "chat UI", "chat UX", "chat system", "chat feature", "chat tool", "chat notification", "online chat", "chat room", "chat platform", "chat thread", "chat history", "texting", "typing", "chat status", "chat response", "chat communication", "interactive chat", "mobile chat", "desktop chat", "conversation bubble", "chat symbol", "chat popup", "chat screen"],
+      "svg": "/static/icons/chat.svg",
+      "rev": "/static/icons/chat.rev",
+      "png": "/static/icons/chat.png",
+      "riv": "/static/icons/chat.riv",
+      "meta": "/static/icons/meta-chat.png"
+    },
+    {
+      "id": "icon33",
+      "name": "Phone",
+      "keywords": ["phone", "phone icon", "call", "call icon", "telephone", "telephone icon", "mobile", "mobile icon", "smartphone", "smartphone icon", "contact", "contact icon", "communication", "communication icon", "voice call", "audio call", "phone call", "incoming call", "outgoing call", "missed call", "dial", "dial icon", "phone number", "contact number", "talk", "talk icon", "receiver", "phone receiver", "handset", "handset icon", "phone app", "phone UI", "phone UX", "call button", "phone interface", "call feature", "support call", "customer service", "customer support", "phone conversation", "telecommunication", "call center", "phone connection", "ringing", "phone ring", "phone line", "mobile communication", "contact us", "hotline", "emergency call", "phone access", "phone settings", "phone system", "call screen", "phone symbol", "phone popup", "phone service", "phone network", "phone tool"],
+      "svg": "/static/icons/phone.svg",
+      "rev": "/static/icons/phone.rev",
+      "png": "/static/icons/phone.png",
+      "riv": "/static/icons/phone.riv",
+      "meta": "/static/icons/meta-phone.png"
+    },
+    {
+      "id": "icon34",
+      "name": "Like",
+      "keywords": ["like", "like icon", "thumbs up", "thumbs up icon", "approve", "approval", "approval icon", "positive", "positive feedback", "feedback icon", "vote", "upvote", "recommend", "recommendation", "favorite", "support", "appreciation", "liked", "liked icon", "reaction", "reaction icon", "engagement", "interaction", "social media", "social icon", "user feedback", "user interaction", "heart icon", "love icon", "praise", "cheer", "good", "agree", "consent", "like button", "like symbol", "like UI", "like UX", "like feature", "click like", "give a like", "social interaction", "social engagement", "approval badge", "support icon", "like gesture", "like indicator", "rate", "rating", "rating icon", "positive vote", "positive review", "positive comment", "app like", "website like", "content like", "like notification", "liked post", "liked content", "reaction button", "thumb icon"],
+      "svg": "/static/icons/like.svg",
+      "rev": "/static/icons/like.rev",
+      "png": "/static/icons/like.png",
+      "riv": "/static/icons/like.riv",
+      "meta": "/static/icons/meta-like.png"
+    },
+    {
+      "id": "icon35",
+      "name": "Question",
+      "keywords": ["question", "question icon", "help", "help icon", "support", "support icon", "inquiry", "inquiry icon", "ask", "ask icon", "question mark", "question mark icon", "faq", "faq icon", "information", "info icon", "curiosity", "confusion", "doubt", "clarification", "uncertainty", "query", "query icon", "need help", "ask question", "get support", "customer help", "help center", "question bubble", "question dialogue", "question prompt", "question tool", "question button", "question UI", "question UX", "question message", "question popup", "question alert", "question symbol", "interactive question", "knowledge base", "question assistance", "question feature", "troubleshooting", "question request", "question notification", "question box", "question tooltip", "question screen", "question interface", "ask us", "ask now", "question form", "support request", "question section", "help request", "user help"],
+      "svg": "/static/icons/question.svg",
+      "rev": "/static/icons/question.rev",
+      "png": "/static/icons/question.png",
+      "riv": "/static/icons/question.riv",
+      "meta": "/static/icons/meta-question.png"
+    },
+    {
+      "id": "icon36",
+      "name": "Logout",
+      "keywords": ["logout", "logout icon", "sign out", "sign out icon", "log off", "log off icon", "exit", "exit icon", "leave", "leave icon", "close session", "end session", "user logout", "account logout", "app logout", "website logout", "logout button", "logout action", "logout feature", "logout UI", "logout UX", "log out now", "logout screen", "logout process", "logout symbol", "logout link", "logout option", "logout interface", "session end", "user sign out", "profile logout", "account sign out", "disconnect", "disconnect icon", "log out feature", "log out system", "log out action", "exit account", "exit profile", "end account session", "logout security", "logout menu", "logout navigation", "logout page", "safe logout", "logout functionality", "log out immediately", "session logout", "account exit", "user exit", "sign out safely", "log out button", "log out now", "exit user account"],
+      "svg": "/static/icons/logout.svg",
+      "rev": "/static/icons/logout.rev",
+      "png": "/static/icons/logout.png",
+      "riv": "/static/icons/logout.riv",
+      "meta": "/static/icons/meta-logout.png"
+    },
+    {
+      "id": "icon37",
+      "name": "Avatar",
+      "keywords": ["avatar", "avatar icon", "profile", "profile icon", "user", "user icon", "account", "account icon", "person", "person icon", "identity", "identity icon", "character", "character icon", "member", "member icon", "user profile", "profile picture", "profile photo", "profile image", "user photo", "user picture", "account avatar", "user avatar", "default avatar", "profile badge", "profile symbol", "user identity", "user representation", "personal account", "profile display", "account holder", "profile UI", "profile UX", "avatar image", "avatar symbol", "profile placeholder", "user card", "user display", "profile circle", "account display", "member profile", "profile customization", "user customization", "avatar customization", "profile settings", "avatar selection", "account settings", "profile icon UI", "profile manager", "personal profile", "digital identity", "user icon UI", "user role", "user system", "user login", "user dashboard", "user account badge"],
+      "svg": "/static/icons/avatar.svg",
+      "rev": "/static/icons/avatar.rev",
+      "png": "/static/icons/avatar.png",
+      "riv": "/static/icons/avatar.riv",
+      "meta": "/static/icons/meta-avatar.png"
+    }
+  ]
+  

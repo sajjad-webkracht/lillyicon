@@ -15,8 +15,19 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.6",
+    "@rive-app/react-canvas": "^4.18.2",
+    "@tailwindcss/postcss": "^4.0.9",
     "gatsby": "^5.14.1",
+    "gatsby-plugin-copy-files-enhanced": "^1.1.1",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-source-filesystem": "^5.14.0",
+    "gatsby-transformer-json": "^5.14.0",
+    "postcss": "^8.5.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^4.0.9"
   }
 }
