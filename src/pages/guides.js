@@ -4,7 +4,6 @@ import Layout from "../components/layout"
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import ScrollUp from "../components/scroll_up";
 import { guides } from "../content/guides";
-import Button from '@mui/material/Button';
 import Seo from "../components/seo";
 
 
@@ -28,11 +27,14 @@ const Guides = () => {
 
         // Update the URL with #{content.link}
         const link = guides[index]?.link || "";
-        window.history.pushState({}, "", `#${link}`);
+        if (typeof window !== "undefined") {
+            window.history.pushState({}, "", `#${link}`);
+        }
     };
 
-    // Ensure the correct guide is opened based on the URL hash
-    useEffect(() => {
+// Ensure the correct guide is opened based on the URL hash
+useEffect(() => {
+    if (typeof window !== "undefined") {
         const hash = window.location.hash.substring(1); // Get the hash without the `#`
         const guideIndex = guides.findIndex((guide) => guide.link === hash);
 
@@ -45,12 +47,15 @@ const Guides = () => {
             const firstGuideLink = guides[0]?.link || "";
             window.history.replaceState({}, "", `#${firstGuideLink}`);
         }
-    }, []);
+    }
+}, []);
 
-        // Reset scroll position to the top when the page is opened
-        useEffect(() => {
-            window.scrollTo(0, 0);
-        }, []);
+// Reset scroll position to the top when the page is opened
+useEffect(() => {
+    if (typeof window !== "undefined") {
+        window.scrollTo(0, 0);
+    }
+}, []);
 
     return (
         <ThemeProvider theme={theme}>

@@ -38,14 +38,16 @@ const IconPage = ({ data }) => {
     }, [data, icon.id]);
 
     const handleShare = () => {
-        navigator.clipboard.writeText(window.location.href).then(() => {
-            setShowCopiedMessage(true);
-            setTimeout(() => {
-                setShowCopiedMessage(false);
-            }, 2000);
-        }).catch(err => {
-            console.error('Failed to copy: ', err);
-        });
+        if (typeof window !== "undefined") {
+            navigator.clipboard.writeText(window.location.href).then(() => {
+                setShowCopiedMessage(true);
+                setTimeout(() => {
+                    setShowCopiedMessage(false);
+                }, 2000);
+            }).catch(err => {
+                console.error('Failed to copy: ', err);
+            });
+        }
     };
 
     const handleSnackbarClose = (event, reason) => {
