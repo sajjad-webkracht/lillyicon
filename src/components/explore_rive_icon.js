@@ -2,7 +2,8 @@ import React from 'react';
 import { useRive, useStateMachineInput } from '@rive-app/react-canvas';
 
 const ExploreRiveIcon = ({ url }) => {
-  const absoluteUrl = new URL(url, window.location.origin).href;
+  const absoluteUrl =
+  typeof window !== "undefined" ? new URL(url, window.location.origin).href : url;
 
   const { rive, RiveComponent } = useRive({
     src: absoluteUrl,
