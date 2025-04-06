@@ -26,9 +26,9 @@ const Donate = () => {
                     <div className="w-full flex flex-col md:flex-row py-4 px-4 md:px-12 my-6 md:my-12 gap-10 md:gap-20">
                         <div className="w-full md:w-1/2">
                             <h3 className="text-base mb-1 font-bold text-blue-500">Keep the Project Alive!</h3>
-                            <h2 className="text-3xl font-bold text-zinc-50">Support Lillyicon</h2>
-                            <p className="text-zinc-400 mt-3 mb-4">First of all, thank you for visiting Lillyicon and using my free animated icons. This project is a labor of love, created to provide high-quality, creative resources to designers, developers, and creators like you—completely free of charge.</p>
-                            <p className="text-zinc-400 mt-3 mb-4">However, maintaining and expanding Lillyicon takes time, effort, and resources. From designing new icons to hosting the website, every little bit helps keep this project alive and growing.</p>
+                            <h2 className="text-3xl font-bold text-zinc-50">Support Lilly Icon</h2>
+                            <p className="text-zinc-400 mt-3 mb-4">First of all, thank you for visiting Lilly Icon and using my free animated icons. This project is a labor of love, created to provide high-quality, creative resources to designers, developers, and creators like you—completely free of charge.</p>
+                            <p className="text-zinc-400 mt-3 mb-4">However, maintaining and expanding Lilly Icon takes time, effort, and resources. From designing new icons to hosting the website, every little bit helps keep this project alive and growing.</p>
                             <p className="text-zinc-400 mt-3 mb-4">Your contribution, no matter how small, makes a huge difference. It allows me to continue dedicating time to this personal project and keep it free for everyone to enjoy.</p>
                         </div>
                         <div className="w-full md:w-1/2 flex md:justify-end mb-4">

@@ -21,13 +21,17 @@ const ExploreRiveIcon = ({ url }) => {
       className='bg-blue-500/10 rounded-md flex justify-center items-center py-12 cursor-pointer hover:bg-blue-500/20 duration-200'
       onClick={() => isClicked && isClicked.fire()}
       onMouseEnter={() => {
-        if (isHover) {
-          isHover.value = true;
+        if (typeof window !== "undefined" && window.matchMedia("(min-width: 768px)").matches) {
+          if (isHover) {
+            isHover.value = true;
+          }
         }
       }}
       onMouseLeave={() => {
-        if (isHover) {
-          isHover.value = false;
+        if (typeof window !== "undefined" && window.matchMedia("(min-width: 768px)").matches) {
+          if (isHover) {
+            isHover.value = false;
+          }
         }
       }}
       

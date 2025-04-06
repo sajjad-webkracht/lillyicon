@@ -47,12 +47,6 @@ export const guides = [
       </a>
     </li>
     <li>
-      <a href="https://rive.app/docs/runtimes/react-native/react-native" target="_blank" class="p-4 rounded-sm bg-blue-500/10 hover:bg-blue-500/20 border-solid border-blue-500/30 duration-200 border-[1px] block">
-        <h2 class="font-bold text-blue-500 text-lg mb-1">React Native</h2>
-        <p class="text-blue-300 text-sm">React Native runtime for Rive documentation.</p>
-      </a>
-    </li>
-    <li>
       <a href="https://rive.app/docs/runtimes/flutter/flutter" target="_blank" class="p-4 rounded-sm bg-blue-500/10 hover:bg-blue-500/20 border-solid border-blue-500/30 duration-200 border-[1px] block">
         <h2 class="font-bold text-blue-500 text-lg mb-1">Flutter</h2>
         <p class="text-blue-300 text-sm">Flutter runtime for Rive documentation.</p>
@@ -68,12 +62,6 @@ export const guides = [
       <a href="https://rive.app/docs/runtimes/android/android" target="_blank" class="p-4 rounded-sm bg-blue-500/10 hover:bg-blue-500/20 border-solid border-blue-500/30 duration-200 border-[1px] block">
         <h2 class="font-bold text-blue-500 text-lg mb-1">Android</h2>
         <p class="text-blue-300 text-sm">Android runtime for Rive documentation.</p>
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/CommunityToolkit/Labs-Windows/blob/main/components/RivePlayer/samples/RivePlayer.md" target="_blank" class="p-4 rounded-sm bg-blue-500/10 hover:bg-blue-500/20 border-solid border-blue-500/30 duration-200 border-[1px] block">
-        <h2 class="font-bold text-blue-500 text-lg mb-1">C#</h2>
-        <p class="text-blue-300 text-sm">C# community runtime for Rive documentation.</p>
       </a>
     </li>
   </ul>

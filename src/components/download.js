@@ -55,7 +55,7 @@ const Download = ({ icon, onClose }) => {
     
     return (
         <div className="fixed z-40 inset-0 bg-nigra/90 md:flex justify-center items-center overflow-y-scroll">
-            <div className="bg-nigra border-blue-500/30 border-[1px] p-4 md:rounded-lg relative w-full md:w-11/12 lg:w-9/12 flex flex-col md:flex-row gap-4 overflow-y-scroll items-end md:items-stretch">
+            <div className="bg-nigra md:border-blue-500/30 md:border-[1px] p-4 md:rounded-lg relative w-full md:w-11/12 lg:w-9/12 flex flex-col md:flex-row gap-4 overflow-y-scroll items-end md:items-stretch">
                 
                 <button onClick={handleClose} className="md:absolute top-3 right-2 w-fit">
                     <IconButton aria-label="delete" color='ao' >

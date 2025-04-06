@@ -21,15 +21,19 @@ const RiveIcon = ({ url }) => {
         <RiveComponent
             onClick={() => isClicked && isClicked.fire()}
             onMouseEnter={() => {
-                if (isHover) {
+                if (typeof window !== "undefined" && window.matchMedia("(min-width: 768px)").matches) {
+                  if (isHover) {
                     isHover.value = true;
+                  }
                 }
-            }}
-            onMouseLeave={() => {
-                if (isHover) {
+              }}
+              onMouseLeave={() => {
+                if (typeof window !== "undefined" && window.matchMedia("(min-width: 768px)").matches) {
+                  if (isHover) {
                     isHover.value = false;
+                  }
                 }
-            }}
+              }}
         />
     );
 };

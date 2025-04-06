@@ -23,13 +23,17 @@ const HeroIcon = ({ url, hidden }) => {
     } bg-blue-500/10 border-blue-500/30 border-[1px] border-solid rounded-md justify-center items-center py-12`}
       onClick={() => isClicked && isClicked.fire()}
       onMouseEnter={() => {
-        if (isHover) {
-          isHover.value = true;
+        if (typeof window !== "undefined" && window.matchMedia("(min-width: 768px)").matches) {
+          if (isHover) {
+            isHover.value = true;
+          }
         }
       }}
       onMouseLeave={() => {
-        if (isHover) {
-          isHover.value = false;
+        if (typeof window !== "undefined" && window.matchMedia("(min-width: 768px)").matches) {
+          if (isHover) {
+            isHover.value = false;
+          }
         }
       }}
       

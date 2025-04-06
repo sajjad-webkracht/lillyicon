@@ -96,7 +96,6 @@ const Layout = ({ children }) => {
                     <div className='w-full md:w-1/5 flex flex-col gap-2'>
                         <h2 className='mb-2 text-sm font-bold text-blue-500'>About</h2>
                         <Link to='/about' className='text-zinc-50 text-sm hover:underline'>About Lilly Icon</Link>
-                        <a href='/figma' className='text-zinc-50 text-sm hover:underline'>Figma Plugin</a>
                         <Link to='/donate' className='text-zinc-50 text-sm hover:underline'>Donate</Link>
                         <Link to='/guides/#licensing' className='text-zinc-50 text-sm hover:underline'>License</Link>
                     </div>
