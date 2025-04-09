@@ -14,7 +14,7 @@ const Scrollup = () => {
 
         const isClicked = useStateMachineInput(rive, 'default', 'isClicked');
       
-        const isHover = useStateMachineInput(rive, 'default', 'isHover');
+        const isHovered = useStateMachineInput(rive, 'default', 'isHovered');
 
     const toggleVisibility = () => {
         if (window.pageYOffset > 300) {
@@ -47,13 +47,13 @@ const Scrollup = () => {
             <div
                 onClick={scrollToTop}
                 onMouseEnter={() => {
-                  if (isHover) {
-                    isHover.value = true;
+                  if (isHovered) {
+                    isHovered.value = true;
                   }
                 }}
                 onMouseLeave={() => {
-                  if (isHover) {
-                    isHover.value = false;
+                  if (isHovered) {
+                    isHovered.value = false;
                   }
                 }}
                 className={`bg-blue-500/20 backdrop-blur-md hover:bg-blue-500 active:scale-95 w-14 h-14 rounded-full flex justify-center items-center cursor-pointer shadow-lg hover:shadow-xl duration-300 ease-in-out transform ${

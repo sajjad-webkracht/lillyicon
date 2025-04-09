@@ -66,7 +66,7 @@ export const guides = [
     </li>
   </ul>
   <p class="mb-4">
-    All animated icons have a single state named <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">default</code> and accept two inputs: <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">isClicked</code> and <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">isHover</code>. Use <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">isClicked</code> for click interactions and <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">isHover</code> for hover effects.
+    All animated icons have a single state named <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">default</code> and accept two inputs: <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">isClicked</code> and <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">isHovered</code>. Use <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">isClicked</code> for click interactions and <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">isHovered</code> for hover effects.
   </p>
   <p class="mb-4">
     If you're using these icons on websites, I recommend disabling Rive’s built-in event listeners by setting <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">shouldDisableRiveListeners: true</code>. This gives you full control over interactions and prevents issues with hover effects on mobile devices.

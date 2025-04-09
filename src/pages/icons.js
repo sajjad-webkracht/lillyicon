@@ -6,6 +6,8 @@ import { graphql } from 'gatsby';
 import ExploreRiveIcon from '../components/explore_rive_icon';
 import Download from '../components/download';
 import Seo from "../components/seo";
+import ScrollUp from "../components/scroll_up";
+
 
 const theme = createTheme({
   palette: {
@@ -63,6 +65,7 @@ const Icons = ({ data }) => {
               </div>
             ))}
           </div>
+          <ScrollUp />
         </Layout>
       </main>
       {selectedIcon && <Download icon={selectedIcon} onClose={handleClosePopup} />}

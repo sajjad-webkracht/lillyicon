@@ -14,7 +14,7 @@ const HeroIcon = ({ url, hidden }) => {
   
   const isClicked = useStateMachineInput(rive, 'default', 'isClicked');
 
-  const isHover = useStateMachineInput(rive, 'default', 'isHover');
+  const isHovered = useStateMachineInput(rive, 'default', 'isHovered');
 
   return (
     <div
@@ -24,15 +24,15 @@ const HeroIcon = ({ url, hidden }) => {
       onClick={() => isClicked && isClicked.fire()}
       onMouseEnter={() => {
         if (typeof window !== "undefined" && window.matchMedia("(min-width: 768px)").matches) {
-          if (isHover) {
-            isHover.value = true;
+          if (isHovered) {
+            isHovered.value = true;
           }
         }
       }}
       onMouseLeave={() => {
         if (typeof window !== "undefined" && window.matchMedia("(min-width: 768px)").matches) {
-          if (isHover) {
-            isHover.value = false;
+          if (isHovered) {
+            isHovered.value = false;
           }
         }
       }}

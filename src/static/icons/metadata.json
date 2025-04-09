@@ -368,6 +368,66 @@
       "png": "/static/icons/avatar.png",
       "riv": "/static/icons/avatar.riv",
       "meta": "/static/icons/meta-avatar.png"
+    },
+    {
+      "id": "icon38",
+      "name": "Security",
+      "keywords": ["security", "security icon", "protection", "protection icon", "shield", "shield icon", "lock", "lock icon", "privacy", "privacy icon", "secure", "secure icon", "safe", "safe icon", "data protection", "data security", "information security", "cybersecurity", "cyber security", "account security", "security badge", "security symbol", "security shield", "security lock", "access control", "user security", "secure access", "authentication", "login security", "password protection", "secure system", "security settings", "security features", "security UI", "security UX", "digital security", "internet security", "firewall", "firewall icon", "encryption", "encryption icon", "two-factor authentication", "2FA", "identity protection", "user protection", "security layer", "safety symbol", "data safety", "secure login", "confidentiality", "confidential icon", "trusted access", "security management", "network security", "online security", "cyber defense", "security interface", "privacy settings", "security tools", "security lock icon", "secure information"],
+      "svg": "/static/icons/security.svg",
+      "rev": "/static/icons/security.rev",
+      "png": "/static/icons/security.png",
+      "riv": "/static/icons/security.riv",
+      "meta": "/static/icons/meta-security.png"
+    },
+    {
+      "id": "icon39",
+      "name": "Laptop",
+      "keywords": ["laptop", "mac", "computer", "computer icon", "notebook", "notebook icon", "device", "device icon", "technology", "technology icon", "electronics", "electronics icon", "portable computer", "mobile computer", "work device", "personal computer", "laptop screen", "laptop device", "digital device", "tech device", "laptop display", "laptop monitor", "laptop keyboard", "laptop setup", "laptop UI", "laptop UX", "pc", "pc icon", "macbook", "macbook icon", "netbook", "netbook icon", "workstation", "workstation icon", "desktop replacement", "remote work", "remote work icon", "online work", "digital work", "home office", "home office icon", "student laptop", "school laptop", "work laptop", "office laptop", "laptop computer", "modern laptop", "thin laptop", "flat laptop", "laptop illustration", "tech icon", "digital screen", "screen icon", "portable tech", "laptop design", "laptop user", "digital workspace"],
+      "svg": "/static/icons/laptop.svg",
+      "rev": "/static/icons/laptop.rev",
+      "png": "/static/icons/laptop.png",
+      "riv": "/static/icons/laptop.riv",
+      "meta": "/static/icons/meta-laptop.png"
+    },
+    {
+      "id": "icon40",
+      "name": "Computer",
+      "keywords": ["computer", "computer icon", "desktop", "desktop icon", "pc", "pc icon", "monitor", "monitor icon", "screen", "screen icon", "technology", "technology icon", "electronics", "electronics icon", "workstation", "workstation icon", "desktop computer", "personal computer", "digital device", "tech device", "computer screen", "computer monitor", "tower pc", "cpu", "cpu icon", "keyboard", "keyboard icon", "mouse", "mouse icon", "computer setup", "office computer", "home computer", "computer UI", "computer UX", "digital screen", "work device", "computer display", "tech setup", "workstation setup", "PC monitor", "PC display", "computer system", "computer desk", "gaming computer", "business computer", "school computer", "desktop setup", "screen display", "wired computer", "wired desktop", "digital workspace", "technology setup", "computer hardware", "computer desk icon"],
+      "svg": "/static/icons/computer.svg",
+      "rev": "/static/icons/computer.rev",
+      "png": "/static/icons/computer.png",
+      "riv": "/static/icons/computer.riv",
+      "meta": "/static/icons/meta-computer.png"
+    },
+    {
+      "id": "icon41",
+      "name": "Tree",
+      "keywords": ["tree", "tree icon", "nature", "nature icon", "plant", "plant icon", "forest", "forest icon", "greenery", "greenery icon", "ecology", "ecology icon", "environment", "environment icon", "outdoor", "outdoor icon", "natural", "natural icon", "organic", "organic icon", "tree silhouette", "tree symbol", "leaf", "leaf icon", "foliage", "foliage icon", "wood", "wood icon", "branch", "branch icon", "tree shape", "green tree", "eco tree", "botany", "botany icon", "garden", "garden icon", "landscape", "landscape icon", "tree illustration", "tree graphic", "tree design", "nature element", "green icon", "climate", "climate icon", "sustainability", "sustainability icon", "plant life", "wildlife", "wildlife icon", "flora", "flora icon", "arbor", "arbor icon", "outdoors", "natural environment", "tree UI", "tree UX", "tree decoration"],
+      "svg": "/static/icons/tree.svg",
+      "rev": "/static/icons/tree.rev",
+      "png": "/static/icons/tree.png",
+      "riv": "/static/icons/tree.riv",
+      "meta": "/static/icons/meta-tree.png"
+    },
+    {
+      "id": "icon42",
+      "name": "Building",
+      "keywords": ["building", "building icon", "architecture", "architecture icon", "city", "city icon", "urban", "urban icon", "office building", "skyscraper", "skyscraper icon", "real estate", "real estate icon", "construction", "construction icon", "structure", "structure icon", "tower", "tower icon", "apartment", "apartment icon", "residence", "residence icon", "headquarters", "business building", "corporate building", "commercial building", "building silhouette", "modern building", "building symbol", "cityscape", "cityscape icon", "urban landscape", "building design", "building illustration", "office tower", "downtown", "downtown icon", "infrastructure", "infrastructure icon", "high-rise", "high-rise icon", "condo", "condo icon", "building block", "multi-story", "urban development", "skyscraper design", "real estate development", "business center", "tall building", "urban structure", "civic building", "city center", "metropolitan icon", "realty icon", "urban planning", "modern architecture", "building UX", "building UI"],
+      "svg": "/static/icons/building.svg",
+      "rev": "/static/icons/building.rev",
+      "png": "/static/icons/building.png",
+      "riv": "/static/icons/building.riv",
+      "meta": "/static/icons/meta-building.png"
+    },
+    {
+      "id": "icon43",
+      "name": "Shop",
+      "keywords": ["shop", "shop icon", "store", "store icon", "market", "market icon", "retail", "retail icon", "shopping", "shopping icon", "boutique", "boutique icon", "storefront", "storefront icon", "marketplace", "marketplace icon", "commerce", "commerce icon", "business", "business icon", "small business", "local shop", "local business", "shop building", "store building", "shopfront", "shopfront icon", "retail store", "online store", "brick and mortar", "shop sign", "shop symbol", "shopping center", "mini market", "grocery store", "corner shop", "general store", "convenience store", "mall", "mall icon", "shopping area", "shopping district", "ecommerce", "ecommerce icon", "retail location", "store design", "store UI", "shop UX", "urban shop", "city shop", "sales icon", "retail business", "shopkeeper", "physical store", "shop illustration", "store icon UI", "shop branding"],
+      "svg": "/static/icons/shop.svg",
+      "rev": "/static/icons/shop.rev",
+      "png": "/static/icons/shop.png",
+      "riv": "/static/icons/shop.riv",
+      "meta": "/static/icons/meta-shop.png"
     }
   ]
   
