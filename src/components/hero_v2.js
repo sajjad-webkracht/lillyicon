@@ -24,21 +24,21 @@ const Hero = () => {
                 <div className="flex w-full gap-4 justify-center">
                     <HeroIcon url='/static/icons/calendar.riv' hidden={false} />
                     <HeroIcon url='/static/icons/remove.riv' hidden={false}  />
-                    <HeroIcon url='/static/icons/star.riv' hidden={false}  />
+                    <HeroIcon url='/static/icons/cog.riv' hidden={false}  />
                     <HeroIcon url='/static/icons/clock.riv' hidden={false}  />
                     <HeroIcon url='/static/icons/lock.riv' hidden={true}  />
                     <HeroIcon url='/static/icons/gift.riv' hidden={true} />
                     <HeroIcon url='/static/icons/eye.riv' hidden={true} />
-                    <HeroIcon url='/static/icons/repeat.riv' hidden={true} />
+                    <HeroIcon url='/static/icons/globe.riv' hidden={true} />
                     <HeroIcon url='/static/icons/download.riv' hidden={true} />
                 </div>
                 <div className="flex mt-4 w-full gap-4 justify-center">
                     <HeroIcon url='/static/icons/map.riv' hidden={false} />
-                    <HeroIcon url='/static/icons/logout.riv' hidden={false} />
+                    <HeroIcon url='/static/icons/video.riv' hidden={false} />
                     <HeroIcon url='/static/icons/location.riv' hidden={false} />
                     <HeroIcon url='/static/icons/like.riv' hidden={false} />
                     <HeroIcon url='/static/icons/home.riv' hidden={true} />
-                    <HeroIcon url='/static/icons/heart.riv' hidden={true} />
+                    <HeroIcon url='/static/icons/building.riv' hidden={true} />
                     <HeroIcon url='/static/icons/growth.riv' hidden={true} />
                     <HeroIcon url='/static/icons/edit.riv' hidden={true} />
                     <HeroIcon url='/static/icons/document.riv' hidden={true} />

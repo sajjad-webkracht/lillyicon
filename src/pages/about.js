@@ -40,7 +40,7 @@ const About = () => {
                   <RiveIcon url='/static/icons/star.riv' />
                 </div>
                 <div className="bg-blue-500/10 border-blue-500/30 border-[1px] border-solid rounded-md justify-center items-center py-4">
-                  <RiveIcon url='/static/icons/logout.riv' />
+                  <RiveIcon url='/static/icons/building.riv' />
                 </div>
                 <div className="bg-blue-500/10 border-blue-500/30 border-[1px] border-solid rounded-md justify-center items-center py-4">
                   <RiveIcon url='/static/icons/map.riv' />
@@ -83,6 +83,19 @@ const About = () => {
               <div className="bg-blue-500/10 border-blue-500/30 border-[1px] rounded-md p-4 md:p-6 w-full md:w-1/4">
                 <h4 className="text-lg text-zinc-50 mb-2 font-bold">Interactive</h4>
                 <p className="text-sm text-zinc-400">Built with Rive technology, Lilly Icon makes interactivity effortless. Each icon features two independent animation effects—one for hover and one for click—bringing designs to life with seamless motion.</p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row w-full mt-20 mb-24 gap-12">
+              <div className="w-full md:w-1/2">
+                <h2 className="text-3xl font-bold text-zinc-50 mb-3">Why So Simple?</h2>
+                <p className="text-zinc-400">As Susan Kare, the famous designer of the first Macintosh icons, said, having better resolution—and in the case of Rive technology, having vector-based animations—should not be misused to create unbelievably complicated icons for the user interface. We are here to make interactions better, more vivid, and easier—not more complicated and polluted. Lilly Icon was designed and animated with this concept in mind. You’ll find its design and animations minimal and simple, yet meaningful.</p>
+              </div>
+              <div className="flex flex-col md:flex-row gap-6 w-full md:w-1/2 bg-blue-500/10 border-blue-500/30 border-[1px] rounded-md p-8 md:p-12 relative">
+                <span className="text-9xl font-bold text-blue-500 absolute -top-8 left-8 md:left-12">"</span>
+                <div className="w-full">
+                  <h2 className="text-base md:text-xl text-zinc-50">I believe that good icons are more akin to road signs rather than illustrations, and ideally should present an idea in a clear, concise, and memorable way. I try to optimize for clarity and simplicity even as palette and resolution options have increased.</h2>
+                  <p className="text-zinc-400 mt-3">— Susan Kare</p>
+                </div>
               </div>
             </div>
             <div className="flex flex-col w-full mt-12 mb-24 gap-2">

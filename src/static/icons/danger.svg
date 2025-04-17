@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Danger" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M426.7,448H85.3c-7.4,0-14.3-3.8-18.1-10.1s-4.2-14.1-0.9-20.8L236.9,75.8c7.2-14.5,30.9-14.5,38.2,0l170.7,341.3
+			c3.3,6.6,3,14.5-0.9,20.8S434.1,448,426.7,448z M119.9,405.3h272.3L256,133L119.9,405.3z"/>
+	</g>
+	<g>
+		<path d="M256,320c-11.8,0-21.3-9.5-21.3-21.3v-63.3c0-11.8,9.6-21.3,21.3-21.3s21.3,9.6,21.3,21.3v63.3
+			C277.3,310.5,267.8,320,256,320z"/>
+	</g>
+	<circle cx="256" cy="362.7" r="21.3"/>
+</g>
+</svg>

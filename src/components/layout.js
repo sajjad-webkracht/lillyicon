@@ -23,7 +23,6 @@ const Layout = ({ children }) => {
 
     return (
         <div>
-            <Alert severity="warning">Beta version: Breaking changes possible. Not recommended for production use.</Alert>
             <header className='w-full sticky top-0 left-0 bg-[#0f1214]/80 backdrop-blur-md z-10 flex justify-between items-center py-4 px-4 md:px-12 border-b border-y-zinc-900 border-solid'>
                 <div className='flex items-center gap-8'>
                     <Link to='/' className='text-zinc-50 text-xl font-bold'>
@@ -94,7 +93,8 @@ const Layout = ({ children }) => {
                         <a href='https://rive.app/docs/editor/interface-overview/overview' className='text-zinc-50 text-sm hover:underline'>Rive Editor Documentation</a>
                     </div>
                     <div className='w-full md:w-1/5 flex flex-col gap-2'>
-                        <h2 className='mb-2 text-sm font-bold text-blue-500'>About</h2>
+                        <h2 className='mb-2 text-sm font-bold text-blue-500'>Project</h2>
+                        <Link to='/icons' className='text-zinc-50 text-sm hover:underline'>Explore Icons</Link>
                         <Link to='/about' className='text-zinc-50 text-sm hover:underline'>About Lilly Icon</Link>
                         <Link to='/donate' className='text-zinc-50 text-sm hover:underline'>Donate</Link>
                         <Link to='/guides/#licensing' className='text-zinc-50 text-sm hover:underline'>License</Link>

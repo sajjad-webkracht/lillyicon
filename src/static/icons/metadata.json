@@ -428,6 +428,136 @@
       "png": "/static/icons/shop.png",
       "riv": "/static/icons/shop.riv",
       "meta": "/static/icons/meta-shop.png"
+    },
+    {
+      "id": "icon44",
+      "name": "Cog",
+      "keywords": ["cog", "cog icon", "gear", "gear icon", "settings", "settings icon", "preferences", "preferences icon", "mechanical", "mechanical icon", "configuration", "configuration icon", "system settings", "system preferences", "tool", "tool icon", "engineering", "engineering icon", "machinery", "machinery icon", "cogwheel", "cogwheel icon", "gearwheel", "gearwheel icon", "system icon", "wrench icon", "control panel", "customization", "customization icon", "adjustments", "adjustments icon", "technical icon", "maintenance", "maintenance icon", "setup", "setup icon", "backend", "backend icon", "optimization", "optimization icon", "technical settings", "tuning", "tuning icon", "process", "process icon", "operations", "operations icon", "gearbox", "gear symbol", "engineering tool", "mechanical part", "admin settings", "interface settings", "cog UI", "gear UI", "settings gear", "system gear", "mechanism"],
+      "svg": "/static/icons/cog.svg",
+      "rev": "/static/icons/cog.rev",
+      "png": "/static/icons/cog.png",
+      "riv": "/static/icons/cog.riv",
+      "meta": "/static/icons/meta-cog.png"
+    },
+    {
+      "id": "icon45",
+      "name": "Check",
+      "keywords": ["check", "check icon", "checkmark", "checkmark icon", "tick", "tick icon", "correct", "correct icon", "right", "right icon", "approved", "approved icon", "done", "done icon", "completed", "completed icon", "success", "success icon", "confirm", "confirm icon", "confirmation", "confirmation icon", "verified", "verified icon", "accepted", "accepted icon", "okay", "ok", "ok icon", "yes", "yes icon", "positive", "positive icon", "valid", "validation", "validation icon", "check symbol", "check sign", "task done", "task complete", "completed status", "approval icon", "check badge", "check UI", "check UX", "form check", "check action", "finished", "mark as done", "task success", "tick mark", "green check", "check circle", "check box", "verify", "verification icon", "check indication"],
+      "svg": "/static/icons/check.svg",
+      "rev": "/static/icons/check.rev",
+      "png": "/static/icons/check.png",
+      "riv": "/static/icons/check.riv",
+      "meta": "/static/icons/meta-check.png"
+    },
+    {
+      "id": "icon46",
+      "name": "Video",
+      "keywords": ["video", "video icon", "media", "media icon", "film", "film icon", "movie", "movie icon", "camera", "camera icon", "play", "play icon", "recording", "recording icon", "videocam", "videocam icon", "video camera", "video camera icon", "cinema", "cinema icon", "clip", "clip icon", "footage", "footage icon", "video clip", "film strip", "film reel", "movie player", "video player", "multimedia", "multimedia icon", "stream", "stream icon", "streaming", "streaming icon", "reel", "reel icon", "broadcast", "broadcast icon", "motion picture", "visual media", "video play", "video content", "video symbol", "online video", "digital video", "video file", "watch video", "video UX", "video UI", "media player", "video screen", "playback", "record video", "live video", "video mode", "video button"],
+      "svg": "/static/icons/video.svg",
+      "rev": "/static/icons/video.rev",
+      "png": "/static/icons/video.png",
+      "riv": "/static/icons/video.riv",
+      "meta": "/static/icons/meta-video.png"
+    },
+    {
+      "id": "icon47",
+      "name": "Globe",
+      "keywords": ["globe", "globe icon", "world", "world icon", "earth", "earth icon", "planet", "planet icon", "global", "global icon", "international", "international icon", "internet", "internet icon", "web", "web icon", "worldwide", "worldwide icon", "network", "network icon", "global network", "world map", "map icon", "earth symbol", "globe symbol", "globe illustration", "globe UI", "global UX", "international access", "worldwide reach", "global presence", "global connectivity", "global communication", "planet earth", "world connectivity", "digital globe", "earth globe", "worldwide icon", "internet world", "global coverage", "global view", "earth view", "connected world", "networked planet", "globe grid", "globe sphere", "virtual globe", "world symbol", "global web", "planet icon", "world icon UI", "earth design"],
+      "svg": "/static/icons/globe.svg",
+      "rev": "/static/icons/globe.rev",
+      "png": "/static/icons/globe.png",
+      "riv": "/static/icons/globe.riv",
+      "meta": "/static/icons/meta-globe.png"
+    },
+    {
+      "id": "icon48",
+      "name": "Coffee Cup",
+      "keywords": ["coffee cup", "coffee cup icon", "coffee", "coffee icon", "cup", "cup icon", "mug", "mug icon", "hot drink", "hot drink icon", "beverage", "beverage icon", "tea", "tea icon", "cafe", "cafe icon", "espresso", "espresso icon", "latte", "latte icon", "drink", "drink icon", "coffee mug", "takeaway cup", "to-go cup", "paper cup", "ceramic mug", "steaming cup", "coffee steam", "warm drink", "hot beverage", "coffee break", "coffee shop", "barista", "barista icon", "caffeine", "caffeine icon", "morning coffee", "coffee time", "coffee symbol", "coffee container", "coffee illustration", "cup of coffee", "coffee icon UI", "cafe symbol", "coffee UX", "coffee logo", "coffee vibes", "coffee art", "brew", "coffee brew", "cappuccino", "americano", "coffee culture", "coffee drink"],
+      "svg": "/static/icons/coffee-cup.svg",
+      "rev": "/static/icons/coffee-cup.rev",
+      "png": "/static/icons/coffee-cup.png",
+      "riv": "/static/icons/coffee-cup.riv",
+      "meta": "/static/icons/meta-coffee-cup.png"
+    },
+    {
+      "id": "icon49",
+      "name": "Layers",
+      "keywords": ["layers", "layers icon", "stack", "stack icon", "multiple layers", "layered", "layer icon", "stacked icon", "arrangement", "arrangement icon", "overlap", "overlap icon", "hierarchy", "hierarchy icon", "levels", "levels icon", "depth", "depth icon", "UI layers", "UX layers", "design layers", "graphic layers", "layer stack", "interface layers", "layered structure", "visual hierarchy", "layout layers", "composition", "composition icon", "grouped elements", "z-index", "z-index icon", "3D layers", "multilayer", "multilayer icon", "element stack", "nested layers", "stacked objects", "overlapping layers", "digital layers", "layer system", "layer interface", "layered UI", "layers panel", "object stack", "layer group", "layer control", "layer manager", "layer design", "stacked layout", "layered UX", "design stack", "layer grid"],
+      "svg": "/static/icons/layers.svg",
+      "rev": "/static/icons/layers.rev",
+      "png": "/static/icons/layers.png",
+      "riv": "/static/icons/layers.riv",
+      "meta": "/static/icons/meta-layers.png"
+    },
+    {
+      "id": "icon50",
+      "name": "Sun",
+      "keywords": ["sun", "sun icon", "sunlight", "sunlight icon", "sunshine", "sunshine icon", "weather", "weather icon", "bright", "brightness", "brightness icon", "sun rays", "rays icon", "solar", "solar icon", "day", "daytime", "sunny", "sunny icon", "clear sky", "clear weather", "sun symbol", "sun graphic", "sun illustration", "light", "light icon", "radiance", "radiance icon", "heat", "heat icon", "warm", "warm icon", "summer", "summer icon", "sunrise", "sunrise icon", "sunset", "sunset icon", "glow", "glow icon", "shine", "shine icon", "energy", "energy icon", "climate", "climate icon", "natural light", "daylight", "sun circle", "sun design", "weather UI", "weather UX", "sky icon", "environment icon", "solar energy", "sunbeam", "morning sun"],
+      "svg": "/static/icons/sun.svg",
+      "rev": "/static/icons/sun.rev",
+      "png": "/static/icons/sun.png",
+      "riv": "/static/icons/sun.riv",
+      "meta": "/static/icons/meta-sun.png"
+    },
+    {
+      "id": "icon51",
+      "name": "Moon",
+      "keywords": ["moon", "moon icon", "night", "night icon", "nighttime", "nighttime icon", "crescent", "crescent icon", "lunar", "lunar icon", "dark", "dark icon", "evening", "evening icon", "sky", "sky icon", "sleep", "sleep icon", "rest", "rest icon", "dream", "dream icon", "quiet", "quiet icon", "peaceful", "peaceful icon", "moonlight", "moonlight icon", "half moon", "crescent moon", "new moon", "full moon", "moon phase", "moon symbol", "moon shape", "night sky", "astronomy", "astronomy icon", "space", "space icon", "outer space", "galaxy", "galaxy icon", "planet", "planet icon", "lunar phase", "sleep time", "bedtime", "moon graphic", "moon illustration", "moon UI", "moon UX", "nocturnal", "calm night", "evening sky", "celestial", "celestial icon", "dark mode"],
+      "svg": "/static/icons/moon.svg",
+      "rev": "/static/icons/moon.rev",
+      "png": "/static/icons/moon.png",
+      "riv": "/static/icons/moon.riv",
+      "meta": "/static/icons/meta-sumoonn.png"
+    },
+    {
+      "id": "icon52",
+      "name": "Danger",
+      "keywords": ["danger", "danger icon", "warning", "warning icon", "alert", "alert icon", "caution", "caution icon", "hazard", "hazard icon", "risk", "risk icon", "exclamation", "exclamation icon", "triangle warning", "critical", "critical icon", "error", "error icon", "threat", "threat icon", "unsafe", "unsafe icon", "attention", "attention icon", "dangerous", "dangerous icon", "alarm", "alarm icon", "emergency", "emergency icon", "sign", "sign icon", "alert symbol", "alert triangle", "alert sign", "stop", "stop icon", "red alert", "warning sign", "warning triangle", "alert UI", "danger UX", "safety warning", "hazard sign", "high risk", "important notice", "security warning", "danger mark", "critical alert", "danger message", "alert notice", "warning label", "caution sign"],
+      "svg": "/static/icons/danger.svg",
+      "rev": "/static/icons/danger.rev",
+      "png": "/static/icons/danger.png",
+      "riv": "/static/icons/danger.riv",
+      "meta": "/static/icons/meta-danger.png"
+    },
+    {
+      "id": "icon53",
+      "name": "Bookmark",
+      "keywords": ["bookmark", "bookmark icon", "save", "save icon", "tag", "tag icon", "favorite", "favorite icon", "mark", "mark icon", "label", "label icon", "flag", "flag icon", "placeholder", "placeholder icon", "reading", "reading icon", "book", "book icon", "article", "article icon", "archive", "archive icon", "saved item", "saved content", "quick access", "bookmark tab", "bookmark label", "bookmark flag", "save for later", "reading list", "pinned", "pinned icon", "pinned item", "highlight", "highlight icon", "bookmark symbol", "bookmark graphic", "bookmark UX", "bookmark UI", "digital bookmark", "document marker", "page marker", "pinned content", "save icon UI", "bookmark button", "bookmark design", "favorites bar", "browser bookmark", "user bookmark", "bookmark tag"],
+      "svg": "/static/icons/bookmark.svg",
+      "rev": "/static/icons/bookmark.rev",
+      "png": "/static/icons/bookmark.png",
+      "riv": "/static/icons/bookmark.riv",
+      "meta": "/static/icons/meta-bookmark.png"
+    },
+    {
+      "id": "icon54",
+      "name": "Cup",
+      "keywords": ["trophy", "trophy icon", "cup", "cup icon", "award", "award icon", "prize", "prize icon", "victory", "victory icon", "winner", "winner icon", "champion", "champion icon", "championship", "championship icon", "achievement", "achievement icon", "success", "success icon", "celebration", "celebration icon", "competition", "competition icon", "honor", "honor icon", "medal", "medal icon", "reward", "reward icon", "first place", "winning cup", "winning icon", "victory cup", "gold cup", "silver cup", "bronze cup", "sports trophy", "team trophy", "tournament trophy", "trophy symbol", "trophy graphic", "award ceremony", "finals winner", "trophy UI", "trophy UX", "cup of victory", "recognition", "best performance", "trophy badge", "achievement award", "game trophy"],
+      "svg": "/static/icons/cup.svg",
+      "rev": "/static/icons/cup.rev",
+      "png": "/static/icons/cup.png",
+      "riv": "/static/icons/cup.riv",
+      "meta": "/static/icons/meta-cup.png"
+    },
+    {
+      "id": "icon55",
+      "name": "Folder",
+      "keywords": ["folder", "folder icon", "file folder", "directory", "directory icon", "files", "files icon", "documents", "documents icon", "archive", "archive icon", "storage", "storage icon", "organize", "organize icon", "file storage", "file manager", "file container", "data folder", "data icon", "folder structure", "folder system", "document folder", "folder graphic", "folder symbol", "digital folder", "folder UI", "folder UX", "project folder", "shared folder", "team folder", "private folder", "open folder", "closed folder", "folder hierarchy", "navigation folder", "system folder", "computer folder", "desktop folder", "file organizer", "folder view", "folder label", "folder tab", "folder icon design", "folder stack", "folder navigation", "file system", "folder application", "user folder", "folder content", "folder layout"],
+      "svg": "/static/icons/folder.svg",
+      "rev": "/static/icons/folder.rev",
+      "png": "/static/icons/folder.png",
+      "riv": "/static/icons/folder.riv",
+      "meta": "/static/icons/meta-folder.png"
+    },
+    {
+      "id": "icon56",
+      "name": "Password",
+      "keywords": ["password", "password icon", "security", "security icon", "lock", "lock icon", "key", "key icon", "privacy", "privacy icon", "authentication", "authentication icon", "login", "login icon", "credentials", "credentials icon", "secure", "secure icon", "protection", "protection icon", "access", "access icon", "user access", "authorization", "authorization icon", "passcode", "passcode icon", "PIN", "PIN icon", "secret", "secret icon", "account security", "password field", "password input", "hidden password", "password dots", "password asterisks", "private access", "encrypted", "encrypted icon", "cybersecurity", "cybersecurity icon", "identity protection", "password manager", "login screen", "password UI", "password UX", "sign in", "verify identity", "data protection", "password safe", "password symbol"],
+      "svg": "/static/icons/password.svg",
+      "rev": "/static/icons/password.rev",
+      "png": "/static/icons/password.png",
+      "riv": "/static/icons/password.riv",
+      "meta": "/static/icons/meta-password.png"
     }
   ]
   

@@ -15,7 +15,7 @@ const SearchForm = ({ onSearch }) => {
     };
 
     return (
-        <form className="w-full gap-2 flex my-6 items-stretch" onSubmit={handleSubmit}>
+        <form className="w-full gap-2 flex md:my-6 items-stretch" onSubmit={handleSubmit}>
             <TextField autoComplete='off' value={query} onChange={handleInputChange} id="outlined-basic" label="Search Icon" variant="outlined" color="ao" className="w-full" />
             <button className='h-full' >
                 <Button variant="outlined" color="ao" className="h-full">Search</Button>

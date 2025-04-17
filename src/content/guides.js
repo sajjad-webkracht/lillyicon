@@ -82,7 +82,14 @@ export const guides = [
     {
       link: "color",
       title: "Customizing Colors",
-      content: "To change an icon's color, open it in Rive Editor and adjust it there. However, a runtime color-changing feature using data binding is expected to be added soon. Stay tuned—this project is still in its early stages!",
+      content: `
+<p class="mb-4">
+    To change the color of icons, you can use the Data Binding feature in Rive. To learn how Data Binding works across different Rive libraries, refer to their <a href="https://rive.app/docs/runtimes/data-binding" target="_blank" class="text-blue-600 hover:underline">documentation</a>:
+  </p>
+  <p class="mb-4">
+    All animated icons have a single View Model named <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">data</code> and in it you can find the color property named <code class="bg-blue-500/10 px-2 py-1 rounded-sm text-zinc-50 text-sm">color</code> that can be used to change the color of the icon.
+  </p>
+`,
     },
     {
       link: "licensing",

@@ -52,11 +52,11 @@ const Icons = ({ data }) => {
     <ThemeProvider theme={theme}>
       <main className="font-roboto">
         <Layout>
-          <div className="w-full gap-2 flex my-6 py-4 px-4 md:px-12">
+          <div className="w-full gap-2 flex mt-5 md:mt-6 md:my-6 py-4 px-4 md:px-12">
           <SearchForm onSearch={handleSearch} />
           </div>
           <div className="grid md:grid-cols-6 lg:grid-cols-8 2xl:grid-cols-12 gap-4 mb-24 py-4 px-4 md:px-12">
-            {filteredIcons.map((icon) => (
+            {filteredIcons.slice().reverse().map((icon) => (
               <div
                 key={icon.id}
                 onClick={() => handleIconClick(icon)}
