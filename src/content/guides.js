@@ -107,7 +107,7 @@ export const guides = [
         Providing attribution is a small yet meaningful way to support the work of creators. By acknowledging the creator and the platform, you help raise awareness about the project, allowing it to grow and remain free for the community.
       </p>
       <p class="mb-4">
-        If you have any questions about the licensing or how to provide proper attribution, feel free to <a href="mailto:hi@sajjaddashti.ir" class="text-blue-500 underline">reach out</a>. I'm here to help! Please note that while the icons are free to use, I appreciate any support you can provide to keep this project alive. You can do this by sharing it with others, providing feedback, or even making a <a href="/donate" target="_blank" class="text-blue-500 underline">donation</a>.
+        If you have any questions about the licensing or how to provide proper attribution, feel free to <a href="mailto:hi@sajjaddashti.ir" class="text-blue-500 hover:underline">reach out</a>. I'm here to help! Please note that while the icons are free to use, I appreciate any support you can provide to keep this project alive. You can do this by sharing it with others, providing feedback, or even making a <a href="/donate" target="_blank" class="text-blue-500 hover:underline">donation</a>.
       </p>
       `,
     },

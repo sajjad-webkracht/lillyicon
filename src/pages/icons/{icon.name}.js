@@ -10,6 +10,8 @@ import AlertTitle from '@mui/material/AlertTitle';
 import Snackbar from '@mui/material/Snackbar';
 import ExploreRiveIcon from '../../components/explore_rive_icon';
 import Seo from "../../components/seo";
+import CookieNotice from "../../components/cookie_notice"
+
 
 
 const theme = createTheme({
@@ -148,6 +150,7 @@ const IconPage = ({ data }) => {
                     message="URL Copied!"
                 />
             </Layout>
+            <CookieNotice />
         </ThemeProvider>
     );
 };

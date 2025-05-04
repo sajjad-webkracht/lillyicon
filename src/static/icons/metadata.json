@@ -7,7 +7,8 @@
       "rev": "/static/icons/hamburger-menu.rev",
       "png": "/static/icons/hamburger-menu.png",
       "riv": "/static/icons/hamburger-menu.riv",
-      "meta": "/static/icons/meta-hamburger-menu.png"
+      "meta": "/static/icons/meta-hamburger-menu.png",
+      "style": "outline"
     },
     {
       "id": "icon2",
@@ -17,47 +18,52 @@
       "rev": "/static/icons/home.rev",
       "png": "/static/icons/home.png",
       "riv": "/static/icons/home.riv",
-      "meta": "/static/icons/meta-home.png"
+      "meta": "/static/icons/meta-home.png",
+      "style": "outline"
     },
     {
       "id": "icon3",
-      "name": "Arrow Right",
-      "keywords": ["arrow right", "right arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow carousel", "arrow pagination", "arrow next", "arrow forward", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
-      "svg": "/static/icons/arrow-right.svg",
-      "rev": "/static/icons/arrow-right.rev",
-      "png": "/static/icons/arrow-right.png",
-      "riv": "/static/icons/arrow-right.riv",
-      "meta": "/static/icons/meta-arrow-right.png"
+      "name": "Chevron Right",
+      "keywords": ["chevron right", "right arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow carousel", "arrow pagination", "arrow next", "arrow forward", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
+      "svg": "/static/icons/chevron-right.svg",
+      "rev": "/static/icons/chevron-right.rev",
+      "png": "/static/icons/chevron-right.png",
+      "riv": "/static/icons/chevron-right.riv",
+      "meta": "/static/icons/meta-chevron-right.png",
+      "style": "outline"
     },
     {
       "id": "icon4",
-      "name": "Arrow Left",
-      "keywords": ["arrow left", "left arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow carousel", "arrow pagination", "arrow previous", "arrow back", "arrow reverse", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
-      "svg": "/static/icons/arrow-left.svg",
-      "rev": "/static/icons/arrow-left.rev",
-      "png": "/static/icons/arrow-left.png",
-      "riv": "/static/icons/arrow-left.riv",
-      "meta": "/static/icons/meta-arrow-left.png"
+      "name": "Chevron Left",
+      "keywords": ["chevron left", "left arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow carousel", "arrow pagination", "arrow previous", "arrow back", "arrow reverse", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
+      "svg": "/static/icons/chevron-left.svg",
+      "rev": "/static/icons/chevron-left.rev",
+      "png": "/static/icons/chevron-left.png",
+      "riv": "/static/icons/chevron-left.riv",
+      "meta": "/static/icons/meta-chevron-left.png",
+      "style": "outline"
     },
     {
       "id": "icon5",
-      "name": "Arrow Down",
-      "keywords": ["arrow down", "down arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow dropdown", "arrow collapse", "arrow expand", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
-      "svg": "/static/icons/arrow-down.svg",
-      "rev": "/static/icons/arrow-down.rev",
-      "png": "/static/icons/arrow-down.png",
-      "riv": "/static/icons/arrow-down.riv",
-      "meta": "/static/icons/meta-arrow-down.png"
+      "name": "Chevron Down",
+      "keywords": ["chevron down", "down arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow dropdown", "arrow collapse", "arrow expand", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
+      "svg": "/static/icons/chevron-down.svg",
+      "rev": "/static/icons/chevron-down.rev",
+      "png": "/static/icons/chevron-down.png",
+      "riv": "/static/icons/chevron-down.riv",
+      "meta": "/static/icons/meta-chevron-down.png",
+      "style": "outline"
     },
     {
       "id": "icon6",
-      "name": "Arrow Up",
-      "keywords": ["arrow up", "up arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow back to top", "arrow collapse", "arrow expand", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
-      "svg": "/static/icons/arrow-up.svg",
-      "rev": "/static/icons/arrow-up.rev",
-      "png": "/static/icons/arrow-up.png",
-      "riv": "/static/icons/arrow-up.riv",
-      "meta": "/static/icons/meta-arrow-up.png"
+      "name": "Chevron Up",
+      "keywords": ["chevron up", "up arrow", "arrow icon", "arrow symbol", "arrow button", "arrow navigation", "arrow direction", "arrow pointer", "arrow indicator", "arrow cursor", "arrow design", "arrow graphic", "arrow vector", "arrow animation", "arrow hover", "arrow click", "arrow scroll", "arrow slider", "arrow back to top", "arrow collapse", "arrow expand", "arrow progress", "arrow UX", "arrow UI", "arrow accessibility", "arrow styling", "arrow customization", "arrow SVG", "arrow PNG", "arrow font", "arrow illustration", "arrow motion", "arrow interaction", "arrow web design", "arrow app design", "arrow mobile", "arrow desktop", "arrow responsive", "arrow template", "arrow plugin", "arrow widget", "arrow usability", "arrow user experience", "arrow user interface"],
+      "svg": "/static/icons/chevron-up.svg",
+      "rev": "/static/icons/chevron-up.rev",
+      "png": "/static/icons/chevron-up.png",
+      "riv": "/static/icons/chevron-up.riv",
+      "meta": "/static/icons/meta-chevron-up.png",
+      "style": "outline"
     },
     {
       "id": "icon7",
@@ -67,7 +73,8 @@
       "rev": "/static/icons/close.rev",
       "png": "/static/icons/close.png",
       "riv": "/static/icons/close.riv",
-      "meta": "/static/icons/meta-close.png"
+      "meta": "/static/icons/meta-close.png",
+      "style": "outline"
     },
     {
       "id": "icon8",
@@ -77,7 +84,8 @@
       "rev": "/static/icons/search.rev",
       "png": "/static/icons/search.png",
       "riv": "/static/icons/search.riv",
-      "meta": "/static/icons/meta-search.png"
+      "meta": "/static/icons/meta-search.png",
+      "style": "outline"
     },
     {
       "id": "icon9",
@@ -87,7 +95,8 @@
       "rev": "/static/icons/download.rev",
       "png": "/static/icons/download.png",
       "riv": "/static/icons/download.riv",
-      "meta": "/static/icons/meta-download.png"
+      "meta": "/static/icons/meta-download.png",
+      "style": "outline"
     },
     {
       "id": "icon10",
@@ -97,7 +106,8 @@
       "rev": "/static/icons/upload.rev",
       "png": "/static/icons/upload.png",
       "riv": "/static/icons/upload.riv",
-      "meta": "/static/icons/meta-upload.png"
+      "meta": "/static/icons/meta-upload.png",
+      "style": "outline"
     },
     {
       "id": "icon11",
@@ -107,7 +117,8 @@
       "rev": "/static/icons/share.rev",
       "png": "/static/icons/share.png",
       "riv": "/static/icons/share.riv",
-      "meta": "/static/icons/meta-share.png"
+      "meta": "/static/icons/meta-share.png",
+      "style": "outline"
     },
     {
       "id": "icon12",
@@ -117,7 +128,8 @@
       "rev": "/static/icons/star.rev",
       "png": "/static/icons/star.png",
       "riv": "/static/icons/star.riv",
-      "meta": "/static/icons/meta-star.png"
+      "meta": "/static/icons/meta-star.png",
+      "style": "outline"
     },
     {
       "id": "icon13",
@@ -127,7 +139,8 @@
       "rev": "/static/icons/edit.rev",
       "png": "/static/icons/edit.png",
       "riv": "/static/icons/edit.riv",
-      "meta": "/static/icons/meta-edit.png"
+      "meta": "/static/icons/meta-edit.png",
+      "style": "outline"
     },
     {
       "id": "icon14",
@@ -137,7 +150,8 @@
       "rev": "/static/icons/remove.rev",
       "png": "/static/icons/remove.png",
       "riv": "/static/icons/remove.riv",
-      "meta": "/static/icons/meta-remove.png"
+      "meta": "/static/icons/meta-remove.png",
+      "style": "outline"
     },
     {
       "id": "icon15",
@@ -147,7 +161,8 @@
       "rev": "/static/icons/plus.rev",
       "png": "/static/icons/plus.png",
       "riv": "/static/icons/plus.riv",
-      "meta": "/static/icons/meta-plus.png"
+      "meta": "/static/icons/meta-plus.png",
+      "style": "outline"
     },
     {
       "id": "icon16",
@@ -157,7 +172,8 @@
       "rev": "/static/icons/repeat.rev",
       "png": "/static/icons/repeat.png",
       "riv": "/static/icons/repeat.riv",
-      "meta": "/static/icons/meta-repeat.png"
+      "meta": "/static/icons/meta-repeat.png",
+      "style": "outline"
     },
     {
       "id": "icon17",
@@ -167,7 +183,8 @@
       "rev": "/static/icons/photo.rev",
       "png": "/static/icons/photo.png",
       "riv": "/static/icons/photo.riv",
-      "meta": "/static/icons/meta-photo.png"
+      "meta": "/static/icons/meta-photo.png",
+      "style": "outline"
     },
     {
       "id": "icon18",
@@ -177,7 +194,8 @@
       "rev": "/static/icons/heart.rev",
       "png": "/static/icons/heart.png",
       "riv": "/static/icons/heart.riv",
-      "meta": "/static/icons/meta-heart.png"
+      "meta": "/static/icons/meta-heart.png",
+      "style": "outline"
     },
     {
       "id": "icon19",
@@ -187,7 +205,8 @@
       "rev": "/static/icons/clock.rev",
       "png": "/static/icons/clock.png",
       "riv": "/static/icons/clock.riv",
-      "meta": "/static/icons/meta-clock.png"
+      "meta": "/static/icons/meta-clock.png",
+      "style": "outline"
     },
     {
       "id": "icon20",
@@ -197,7 +216,8 @@
       "rev": "/static/icons/timer.rev",
       "png": "/static/icons/timer.png",
       "riv": "/static/icons/timer.riv",
-      "meta": "/static/icons/meta-timer.png"
+      "meta": "/static/icons/meta-timer.png",
+      "style": "outline"
     },
     {
       "id": "icon21",
@@ -207,7 +227,8 @@
       "rev": "/static/icons/eye.rev",
       "png": "/static/icons/eye.png",
       "riv": "/static/icons/eye.riv",
-      "meta": "/static/icons/meta-eye.png"
+      "meta": "/static/icons/meta-eye.png",
+      "style": "outline"
     },
     {
       "id": "icon22",
@@ -217,7 +238,8 @@
       "rev": "/static/icons/bulb.rev",
       "png": "/static/icons/bulb.png",
       "riv": "/static/icons/bulb.riv",
-      "meta": "/static/icons/meta-bulb.png"
+      "meta": "/static/icons/meta-bulb.png",
+      "style": "outline"
     },
     {
       "id": "icon23",
@@ -227,7 +249,8 @@
       "rev": "/static/icons/location.rev",
       "png": "/static/icons/location.png",
       "riv": "/static/icons/location.riv",
-      "meta": "/static/icons/meta-location.png"
+      "meta": "/static/icons/meta-location.png",
+      "style": "outline"
     },
     {
       "id": "icon24",
@@ -237,7 +260,8 @@
       "rev": "/static/icons/lock.rev",
       "png": "/static/icons/lock.png",
       "riv": "/static/icons/lock.riv",
-      "meta": "/static/icons/meta-lock.png"
+      "meta": "/static/icons/meta-lock.png",
+      "style": "outline"
     },
     {
       "id": "icon25",
@@ -247,7 +271,8 @@
       "rev": "/static/icons/document.rev",
       "png": "/static/icons/document.png",
       "riv": "/static/icons/document.riv",
-      "meta": "/static/icons/meta-document.png"
+      "meta": "/static/icons/meta-document.png",
+      "style": "outline"
     },
     {
       "id": "icon26",
@@ -257,7 +282,8 @@
       "rev": "/static/icons/gift.rev",
       "png": "/static/icons/gift.png",
       "riv": "/static/icons/gift.riv",
-      "meta": "/static/icons/meta-gift.png"
+      "meta": "/static/icons/meta-gift.png",
+      "style": "outline"
     },
     {
       "id": "icon27",
@@ -267,7 +293,8 @@
       "rev": "/static/icons/camera.rev",
       "png": "/static/icons/camera.png",
       "riv": "/static/icons/camera.riv",
-      "meta": "/static/icons/meta-camera.png"
+      "meta": "/static/icons/meta-camera.png",
+      "style": "outline"
     },
     {
       "id": "icon28",
@@ -277,7 +304,8 @@
       "rev": "/static/icons/crown.rev",
       "png": "/static/icons/crown.png",
       "riv": "/static/icons/crown.riv",
-      "meta": "/static/icons/meta-crown.png"
+      "meta": "/static/icons/meta-crown.png",
+      "style": "outline"
     },
     {
       "id": "icon29",
@@ -287,7 +315,8 @@
       "rev": "/static/icons/calendar.rev",
       "png": "/static/icons/calendar.png",
       "riv": "/static/icons/calendar.riv",
-      "meta": "/static/icons/meta-calendar.png"
+      "meta": "/static/icons/meta-calendar.png",
+      "style": "outline"
     },
     {
       "id": "icon30",
@@ -297,7 +326,8 @@
       "rev": "/static/icons/growth.rev",
       "png": "/static/icons/growth.png",
       "riv": "/static/icons/growth.riv",
-      "meta": "/static/icons/meta-growth.png"
+      "meta": "/static/icons/meta-growth.png",
+      "style": "outline"
     },
     {
       "id": "icon31",
@@ -307,7 +337,8 @@
       "rev": "/static/icons/map.rev",
       "png": "/static/icons/map.png",
       "riv": "/static/icons/map.riv",
-      "meta": "/static/icons/meta-map.png"
+      "meta": "/static/icons/meta-map.png",
+      "style": "outline"
     },
     {
       "id": "icon32",
@@ -317,7 +348,8 @@
       "rev": "/static/icons/chat.rev",
       "png": "/static/icons/chat.png",
       "riv": "/static/icons/chat.riv",
-      "meta": "/static/icons/meta-chat.png"
+      "meta": "/static/icons/meta-chat.png",
+      "style": "outline"
     },
     {
       "id": "icon33",
@@ -327,7 +359,8 @@
       "rev": "/static/icons/phone.rev",
       "png": "/static/icons/phone.png",
       "riv": "/static/icons/phone.riv",
-      "meta": "/static/icons/meta-phone.png"
+      "meta": "/static/icons/meta-phone.png",
+      "style": "outline"
     },
     {
       "id": "icon34",
@@ -337,7 +370,8 @@
       "rev": "/static/icons/like.rev",
       "png": "/static/icons/like.png",
       "riv": "/static/icons/like.riv",
-      "meta": "/static/icons/meta-like.png"
+      "meta": "/static/icons/meta-like.png",
+      "style": "outline"
     },
     {
       "id": "icon35",
@@ -347,7 +381,8 @@
       "rev": "/static/icons/question.rev",
       "png": "/static/icons/question.png",
       "riv": "/static/icons/question.riv",
-      "meta": "/static/icons/meta-question.png"
+      "meta": "/static/icons/meta-question.png",
+      "style": "outline"
     },
     {
       "id": "icon36",
@@ -357,7 +392,8 @@
       "rev": "/static/icons/logout.rev",
       "png": "/static/icons/logout.png",
       "riv": "/static/icons/logout.riv",
-      "meta": "/static/icons/meta-logout.png"
+      "meta": "/static/icons/meta-logout.png",
+      "style": "outline"
     },
     {
       "id": "icon37",
@@ -367,7 +403,8 @@
       "rev": "/static/icons/avatar.rev",
       "png": "/static/icons/avatar.png",
       "riv": "/static/icons/avatar.riv",
-      "meta": "/static/icons/meta-avatar.png"
+      "meta": "/static/icons/meta-avatar.png",
+      "style": "outline"
     },
     {
       "id": "icon38",
@@ -377,7 +414,8 @@
       "rev": "/static/icons/security.rev",
       "png": "/static/icons/security.png",
       "riv": "/static/icons/security.riv",
-      "meta": "/static/icons/meta-security.png"
+      "meta": "/static/icons/meta-security.png",
+      "style": "outline"
     },
     {
       "id": "icon39",
@@ -387,7 +425,8 @@
       "rev": "/static/icons/laptop.rev",
       "png": "/static/icons/laptop.png",
       "riv": "/static/icons/laptop.riv",
-      "meta": "/static/icons/meta-laptop.png"
+      "meta": "/static/icons/meta-laptop.png",
+      "style": "outline"
     },
     {
       "id": "icon40",
@@ -397,7 +436,8 @@
       "rev": "/static/icons/computer.rev",
       "png": "/static/icons/computer.png",
       "riv": "/static/icons/computer.riv",
-      "meta": "/static/icons/meta-computer.png"
+      "meta": "/static/icons/meta-computer.png",
+      "style": "outline"
     },
     {
       "id": "icon41",
@@ -407,7 +447,8 @@
       "rev": "/static/icons/tree.rev",
       "png": "/static/icons/tree.png",
       "riv": "/static/icons/tree.riv",
-      "meta": "/static/icons/meta-tree.png"
+      "meta": "/static/icons/meta-tree.png",
+      "style": "outline"
     },
     {
       "id": "icon42",
@@ -417,7 +458,8 @@
       "rev": "/static/icons/building.rev",
       "png": "/static/icons/building.png",
       "riv": "/static/icons/building.riv",
-      "meta": "/static/icons/meta-building.png"
+      "meta": "/static/icons/meta-building.png",
+      "style": "outline"
     },
     {
       "id": "icon43",
@@ -427,7 +469,8 @@
       "rev": "/static/icons/shop.rev",
       "png": "/static/icons/shop.png",
       "riv": "/static/icons/shop.riv",
-      "meta": "/static/icons/meta-shop.png"
+      "meta": "/static/icons/meta-shop.png",
+      "style": "outline"
     },
     {
       "id": "icon44",
@@ -437,7 +480,8 @@
       "rev": "/static/icons/cog.rev",
       "png": "/static/icons/cog.png",
       "riv": "/static/icons/cog.riv",
-      "meta": "/static/icons/meta-cog.png"
+      "meta": "/static/icons/meta-cog.png",
+      "style": "outline"
     },
     {
       "id": "icon45",
@@ -447,7 +491,8 @@
       "rev": "/static/icons/check.rev",
       "png": "/static/icons/check.png",
       "riv": "/static/icons/check.riv",
-      "meta": "/static/icons/meta-check.png"
+      "meta": "/static/icons/meta-check.png",
+      "style": "outline"
     },
     {
       "id": "icon46",
@@ -457,7 +502,8 @@
       "rev": "/static/icons/video.rev",
       "png": "/static/icons/video.png",
       "riv": "/static/icons/video.riv",
-      "meta": "/static/icons/meta-video.png"
+      "meta": "/static/icons/meta-video.png",
+      "style": "outline"
     },
     {
       "id": "icon47",
@@ -467,7 +513,8 @@
       "rev": "/static/icons/globe.rev",
       "png": "/static/icons/globe.png",
       "riv": "/static/icons/globe.riv",
-      "meta": "/static/icons/meta-globe.png"
+      "meta": "/static/icons/meta-globe.png",
+      "style": "outline"
     },
     {
       "id": "icon48",
@@ -477,7 +524,8 @@
       "rev": "/static/icons/coffee-cup.rev",
       "png": "/static/icons/coffee-cup.png",
       "riv": "/static/icons/coffee-cup.riv",
-      "meta": "/static/icons/meta-coffee-cup.png"
+      "meta": "/static/icons/meta-coffee-cup.png",
+      "style": "outline"
     },
     {
       "id": "icon49",
@@ -487,7 +535,8 @@
       "rev": "/static/icons/layers.rev",
       "png": "/static/icons/layers.png",
       "riv": "/static/icons/layers.riv",
-      "meta": "/static/icons/meta-layers.png"
+      "meta": "/static/icons/meta-layers.png",
+      "style": "outline"
     },
     {
       "id": "icon50",
@@ -497,7 +546,8 @@
       "rev": "/static/icons/sun.rev",
       "png": "/static/icons/sun.png",
       "riv": "/static/icons/sun.riv",
-      "meta": "/static/icons/meta-sun.png"
+      "meta": "/static/icons/meta-sun.png",
+      "style": "outline"
     },
     {
       "id": "icon51",
@@ -507,7 +557,8 @@
       "rev": "/static/icons/moon.rev",
       "png": "/static/icons/moon.png",
       "riv": "/static/icons/moon.riv",
-      "meta": "/static/icons/meta-sumoonn.png"
+      "meta": "/static/icons/meta-sumoonn.png",
+      "style": "outline"
     },
     {
       "id": "icon52",
@@ -517,7 +568,8 @@
       "rev": "/static/icons/danger.rev",
       "png": "/static/icons/danger.png",
       "riv": "/static/icons/danger.riv",
-      "meta": "/static/icons/meta-danger.png"
+      "meta": "/static/icons/meta-danger.png",
+      "style": "outline"
     },
     {
       "id": "icon53",
@@ -527,7 +579,8 @@
       "rev": "/static/icons/bookmark.rev",
       "png": "/static/icons/bookmark.png",
       "riv": "/static/icons/bookmark.riv",
-      "meta": "/static/icons/meta-bookmark.png"
+      "meta": "/static/icons/meta-bookmark.png",
+      "style": "outline"
     },
     {
       "id": "icon54",
@@ -537,7 +590,8 @@
       "rev": "/static/icons/cup.rev",
       "png": "/static/icons/cup.png",
       "riv": "/static/icons/cup.riv",
-      "meta": "/static/icons/meta-cup.png"
+      "meta": "/static/icons/meta-cup.png",
+      "style": "outline"
     },
     {
       "id": "icon55",
@@ -547,7 +601,8 @@
       "rev": "/static/icons/folder.rev",
       "png": "/static/icons/folder.png",
       "riv": "/static/icons/folder.riv",
-      "meta": "/static/icons/meta-folder.png"
+      "meta": "/static/icons/meta-folder.png",
+      "style": "outline"
     },
     {
       "id": "icon56",
@@ -557,7 +612,448 @@
       "rev": "/static/icons/password.rev",
       "png": "/static/icons/password.png",
       "riv": "/static/icons/password.riv",
-      "meta": "/static/icons/meta-password.png"
+      "meta": "/static/icons/meta-password.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon57",
+      "name": "Sound On",
+      "keywords": ["sound", "sound icon", "megaphone", "megaphone icon", "speaker", "speaker icon", "announcement", "announcement icon", "volume", "volume icon", "loud", "loud icon", "audio", "audio icon", "voice", "voice icon", "broadcast", "broadcast icon", "alert", "alert icon", "notification", "notification icon", "amplify", "amplify icon", "sound waves", "audio waves", "noise", "noise icon", "communication", "communication icon", "public address", "PA system", "sound effect", "sound symbol", "audio signal", "media sound", "megaphone alert", "loudspeaker", "loudspeaker icon", "announcement speaker", "sound UX", "sound UI", "megaphone sound", "voice projection", "audio output", "event speaker", "megaphone blast", "audio message", "volume boost", "yelling", "shouting", "attention icon", "voice alert", "news speaker"],
+      "svg": "/static/icons/sound-on.svg",
+      "rev": "/static/icons/sound-on.rev",
+      "png": "/static/icons/sound-on.png",
+      "riv": "/static/icons/sound-on.riv",
+      "meta": "/static/icons/meta-sound-on.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon58",
+      "name": "Sound Off",
+      "keywords": ["mute", "mute icon", "sound off", "sound off icon", "no sound", "no sound icon", "volume off", "volume off icon", "audio off", "audio off icon", "silent", "silent icon", "silence", "silence icon", "muted", "muted icon", "speaker off", "speaker off icon", "disable sound", "mute speaker", "audio mute", "no volume", "low volume", "turn off sound", "quiet mode", "mute mode", "media mute", "mute symbol", "sound control", "audio control", "mute toggle", "audio off toggle", "notification off", "volume control", "sound setting", "mute UI", "mute UX", "speaker disabled", "crossed speaker", "mute line icon", "mute illustration", "mute button", "mute function", "muted output", "mute media", "audio silence", "sound restriction", "speaker crossed", "volume muted"],
+      "svg": "/static/icons/sound-off.svg",
+      "rev": "/static/icons/sound-off.rev",
+      "png": "/static/icons/sound-off.png",
+      "riv": "/static/icons/sound-off.riv",
+      "meta": "/static/icons/meta-sound-off.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon59",
+      "name": "Clipboard",
+      "keywords": ["clipboard", "clipboard icon", "copy", "copy icon", "paste", "paste icon", "notes", "notes icon", "document", "document icon", "task", "task icon", "checklist", "checklist icon", "to-do", "to-do icon", "form", "form icon", "record", "record icon", "report", "report icon", "schedule", "schedule icon", "clipboard document", "clipboard note", "clipboard form", "clipboard checklist", "clipboard tasks", "clipboard UI", "clipboard UX", "clipboard symbol", "clipboard graphic", "clipboard design", "clipboard board", "clipboard file", "clipboard sheet", "clipboard form icon", "clipboard with text", "clipboard app", "clipboard interface", "clipboard layout", "clipboard data", "clipboard list", "clipboard item", "clipboard paper", "clipboard content", "clipboard holder", "clipboard file icon"],
+      "svg": "/static/icons/clipboard.svg",
+      "rev": "/static/icons/clipboard.rev",
+      "png": "/static/icons/clipboard.png",
+      "riv": "/static/icons/clipboard.riv",
+      "meta": "/static/icons/meta-clipboard.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon60",
+      "name": "QR Code",
+      "keywords": ["qr code", "qr code icon", "barcode", "barcode icon", "scan", "scan icon", "scanner", "scanner icon", "code", "code icon", "matrix code", "2d code", "quick response", "quick response code", "qr scanner", "qr reader", "mobile scan", "digital code", "digital ticket", "qr symbol", "qr square", "check-in code", "payment code", "access code", "qr image", "qr tag", "smart scan", "qr UX", "qr UI", "qr interface", "encoded data", "scannable code", "square code", "tech code", "product scan", "url code", "qr authentication", "qr verification", "qr login", "qr pass", "digital ID", "qr badge", "qr label", "qr element", "qr pattern", "qr block", "qr content", "scanable", "coded square"],
+      "svg": "/static/icons/qr-code.svg",
+      "rev": "/static/icons/qr-code.rev",
+      "png": "/static/icons/qr-code.png",
+      "riv": "/static/icons/qr-code.riv",
+      "meta": "/static/icons/meta-qr-code.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon61",
+      "name": "Setting",
+      "keywords": ["settings", "settings icon", "controls", "controls icon", "sliders", "sliders icon", "adjustment", "adjustment icon", "equalizer", "equalizer icon", "tuner", "tuner icon", "control panel", "control panel icon", "preferences", "preferences icon", "filter", "filter icon", "customize", "customize icon", "interface settings", "UI settings", "UX settings", "level control", "sound settings", "audio control", "mixer", "mixer icon", "configuration", "configuration icon", "slider bars", "volume control", "toggle settings", "input control", "output control", "dashboard controls", "panel sliders", "interactive settings", "system settings", "option sliders", "slider knobs", "tool settings", "custom settings", "manage settings", "personalization", "adjust controls", "fine tuning", "tune icon", "user controls", "settings panel", "adjust icon", "modify settings"],
+      "svg": "/static/icons/setting.svg",
+      "rev": "/static/icons/setting.rev",
+      "png": "/static/icons/setting.png",
+      "riv": "/static/icons/setting.riv",
+      "meta": "/static/icons/meta-setting.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon62",
+      "name": "Bank",
+      "keywords": ["bank", "bank icon", "financial", "financial icon", "finance", "finance icon", "money", "money icon", "institution", "institution icon", "building", "building icon", "government", "government icon", "vault", "vault icon", "savings", "savings icon", "deposit", "deposit icon", "withdraw", "withdraw icon", "cash", "cash icon", "currency", "currency icon", "account", "account icon", "safe", "safe icon", "banking", "banking icon", "bank building", "bank structure", "money center", "financial center", "economy", "economy icon", "funds", "funds icon", "monetary", "monetary icon", "business", "business icon", "central bank", "commercial bank", "investment bank", "bank office", "financial institution", "capital", "public bank", "brick bank", "bank icon design", "bank UI", "bank UX"],
+      "svg": "/static/icons/bank.svg",
+      "rev": "/static/icons/bank.rev",
+      "png": "/static/icons/bank.png",
+      "riv": "/static/icons/bank.riv",
+      "meta": "/static/icons/meta-bank.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon63",
+      "name": "Translate",
+      "keywords": ["bank", "bank icon", "financial", "financial icon", "finance", "finance icon", "money", "money icon", "institution", "institution icon", "building", "building icon", "government", "government icon", "vault", "vault icon", "savings", "savings icon", "deposit", "deposit icon", "withdraw", "withdraw icon", "cash", "cash icon", "currency", "currency icon", "account", "account icon", "safe", "safe icon", "banking", "banking icon", "bank building", "bank structure", "money center", "financial center", "economy", "economy icon", "funds", "funds icon", "monetary", "monetary icon", "business", "business icon", "central bank", "commercial bank", "investment bank", "bank office", "financial institution", "capital", "public bank", "brick bank", "bank icon design", "bank UI", "bank UX"],
+      "svg": "/static/icons/translate.svg",
+      "rev": "/static/icons/translate.rev",
+      "png": "/static/icons/translate.png",
+      "riv": "/static/icons/translate.riv",
+      "meta": "/static/icons/meta-translate.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon64",
+      "name": "Compass",
+      "keywords": ["compass", "compass icon", "navigation", "navigation icon", "direction", "direction icon", "explore", "explore icon", "travel", "travel icon", "map", "map icon", "orientation", "orientation icon", "wayfinding", "wayfinding icon", "adventure", "adventure icon", "location", "location icon", "gps", "gps icon", "position", "position icon", "north", "south", "east", "west", "navigation tool", "travel tool", "pathfinder", "navigation aid", "compass needle", "magnetic compass", "explorer", "guidance", "location finder", "geo icon", "map tool", "travel symbol", "directional", "compass rose", "cardinal points", "world explorer", "outdoors", "travel gear", "compass UI", "compass UX", "journey icon", "navigation graphic", "directional icon"],
+      "svg": "/static/icons/compass.svg",
+      "rev": "/static/icons/compass.rev",
+      "png": "/static/icons/compass.png",
+      "riv": "/static/icons/compass.riv",
+      "meta": "/static/icons/meta-compass.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon65",
+      "name": "Box",
+      "keywords": ["box", "box icon", "package", "package icon", "parcel", "parcel icon", "shipping", "shipping icon", "delivery", "delivery icon", "container", "container icon", "storage", "storage icon", "crate", "crate icon", "cardboard box", "moving box", "open box", "closed box", "mail", "mail icon", "cargo", "cargo icon", "logistics", "logistics icon", "warehouse", "warehouse icon", "box package", "box container", "box symbol", "box design", "box graphic", "box UI", "box UX", "shipment", "shipment icon", "gift box", "supply box", "boxed item", "storage solution", "inventory box", "product box", "stacked box", "box illustration", "delivery package", "box label", "cardboard container", "boxy icon", "storage unit", "packed goods"],
+      "svg": "/static/icons/box.svg",
+      "rev": "/static/icons/box.rev",
+      "png": "/static/icons/box.png",
+      "riv": "/static/icons/box.riv",
+      "meta": "/static/icons/meta-box.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon66",
+      "name": "Battery",
+      "keywords": ["battery", "battery icon", "power", "power icon", "energy", "energy icon", "charge", "charge icon", "charging", "charging icon", "battery level", "low battery", "full battery", "battery status", "electricity", "electricity icon", "battery bar", "battery indicator", "battery life", "battery meter", "battery capacity", "energy source", "power supply", "battery symbol", "battery graphic", "battery UI", "battery UX", "portable power", "battery alert", "recharge", "battery percent", "device power", "battery pack", "battery saver", "energy bar", "power bar", "charging level", "battery percentage", "battery drain", "battery full", "battery low", "mobile battery", "battery strength", "power cell", "energy charge", "power level", "charge status"],
+      "svg": "/static/icons/battery.svg",
+      "rev": "/static/icons/battery.rev",
+      "png": "/static/icons/battery.png",
+      "riv": "/static/icons/battery.riv",
+      "meta": "/static/icons/meta-battery.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon67",
+      "name": "Color",
+      "keywords": ["color", "color icon", "palette", "palette icon", "paint", "paint icon", "brush", "brush icon", "paint palette", "color picker", "color wheel", "color swatch", "swatch", "swatch icon", "hue", "hue icon", "tint", "tint icon", "shade", "shade icon", "gradient", "gradient icon", "design", "design icon", "art", "art icon", "creative", "creative icon", "visual", "visual icon", "aesthetic", "aesthetic icon", "paint tool", "color tool", "custom color", "digital art", "artistic tool", "color selection", "color theme", "color setting", "style icon", "UI color", "UX color", "graphic design", "color design", "vibrant", "saturation", "desaturation", "pigment", "painting"],
+      "svg": "/static/icons/color.svg",
+      "rev": "/static/icons/color.rev",
+      "png": "/static/icons/color.png",
+      "riv": "/static/icons/color.riv",
+      "meta": "/static/icons/meta-color.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon68",
+      "name": "Mountain",
+      "keywords": ["mountain", "mountain icon", "peak", "peak icon", "summit", "summit icon", "hill", "hill icon", "nature", "nature icon", "landscape", "landscape icon", "outdoors", "outdoors icon", "adventure", "adventure icon", "hiking", "hiking icon", "travel", "travel icon", "explore", "explore icon", "climb", "climb icon", "terrain", "terrain icon", "rocky", "rocky icon", "mountainscape", "mountain view", "alps", "range", "mountain range", "natural scene", "eco travel", "wildlife", "wilderness", "scenic", "scenic view", "geography", "elevation", "highland", "ridge", "alpine", "camping", "outdoor travel", "landform", "natural icon", "earth", "environment", "ecotourism", "trail"],
+      "svg": "/static/icons/mountain.svg",
+      "rev": "/static/icons/mountain.rev",
+      "png": "/static/icons/mountain.png",
+      "riv": "/static/icons/mountain.riv",
+      "meta": "/static/icons/meta-mountain.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon69",
+      "name": "Link",
+      "keywords": ["link", "link icon", "chain", "chain icon", "hyperlink", "hyperlink icon", "url", "url icon", "web link", "website link", "connection", "connection icon", "attach", "attach icon", "linked", "linked icon", "external link", "linked content", "reference", "reference icon", "linked page", "link symbol", "chain link", "internet link", "web address", "shortcut", "shortcut icon", "anchor", "anchor icon", "connected", "link connection", "link tool", "attach link", "linked files", "linking", "website URL", "link UX", "link UI", "linking icon", "linked data", "embed link", "linked element", "link button", "link interface", "web navigation", "clickable link", "connectivity"],
+      "svg": "/static/icons/link.svg",
+      "rev": "/static/icons/link.rev",
+      "png": "/static/icons/link.png",
+      "riv": "/static/icons/link.riv",
+      "meta": "/static/icons/meta-link.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon70",
+      "name": "Fingerprint",
+      "keywords": ["fingerprint", "fingerprint icon", "biometric", "biometric icon", "identity", "identity icon", "authentication", "authentication icon", "security", "security icon", "access", "access icon", "unlock", "unlock icon", "biometric scan", "fingerprint scan", "touch ID", "digital identity", "personal ID", "login", "login icon", "verify", "verification", "identity check", "finger scan", "biometric security", "fingerprint reader", "fingerprint sensor", "biometric login", "biometric authentication", "passwordless", "identity proof", "ID verification", "user security", "digital security", "secure access", "access control", "fingerprint pattern", "human identification", "scan icon", "access granted", "smart login", "private access", "digital fingerprint", "secure login", "user lock", "biometric access"],
+      "svg": "/static/icons/fingerprint.svg",
+      "rev": "/static/icons/fingerprint.rev",
+      "png": "/static/icons/fingerprint.png",
+      "riv": "/static/icons/fingerprint.riv",
+      "meta": "/static/icons/meta-fingerprint.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon71",
+      "name": "Notification",
+      "keywords": ["notification", "notification icon", "alert", "alert icon", "bell", "bell icon", "reminder", "reminder icon", "alarm", "alarm icon", "push notification", "message alert", "update", "update icon", "news", "news icon", "inbox", "inbox icon", "ping", "ping icon", "sound alert", "new message", "attention", "attention icon", "event reminder", "notification bell", "announcement", "announcement icon", "info", "info icon", "popup", "popup icon", "badge", "notification badge", "system alert", "status update", "app notification", "alert message", "notification symbol", "notification sound", "warning", "warning icon", "notice", "notice icon", "notification center", "notification panel", "activity alert", "incoming message", "real-time alert", "mobile alert"],
+      "svg": "/static/icons/notification.svg",
+      "rev": "/static/icons/notification.rev",
+      "png": "/static/icons/notification.png",
+      "riv": "/static/icons/notification.riv",
+      "meta": "/static/icons/meta-notification.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon72",
+      "name": "Voice",
+      "keywords": ["voice", "voice icon", "microphone", "microphone icon", "audio", "audio icon", "sound", "sound icon", "record", "record icon", "speech", "speech icon", "talk", "talk icon", "voice input", "voice message", "mic", "mic icon", "voice control", "voice assistant", "voice recognition", "voice search", "vocal", "vocal icon", "audio input", "voice command", "sound wave", "sound recording", "voiceover", "dictation", "recording icon", "audio interface", "voice interaction", "smart mic", "podcast", "podcast icon", "voice UI", "voice UX", "chat", "chat icon", "speaker", "speaker icon", "voice tech", "AI assistant", "voice bot", "voice enabled", "voice settings"],
+      "svg": "/static/icons/voice.svg",
+      "rev": "/static/icons/voice.rev",
+      "png": "/static/icons/voice.png",
+      "riv": "/static/icons/voice.riv",
+      "meta": "/static/icons/meta-voice.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon73",
+      "name": "Credit Card",
+      "keywords": ["credit card", "credit card icon", "card", "card icon", "payment", "payment icon", "debit card", "debit card icon", "bank card", "bank card icon", "transaction", "transaction icon", "checkout", "checkout icon", "purchase", "purchase icon", "money", "money icon", "finance", "finance icon", "wallet", "wallet icon", "online payment", "digital payment", "credit", "debit", "payment method", "pay", "pay icon", "billing", "billing icon", "ecommerce", "shopping", "shopping icon", "cashless", "card payment", "payment gateway", "secure payment", "card swipe", "banking", "card reader", "payment UI", "POS", "financial icon", "transaction method", "money transfer", "payment system", "credit icon", "electronic payment"],
+      "svg": "/static/icons/credit-card.svg",
+      "rev": "/static/icons/credit-card.rev",
+      "png": "/static/icons/credit-card.png",
+      "riv": "/static/icons/credit-card.riv",
+      "meta": "/static/icons/meta-credit-card.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon74",
+      "name": "Pin",
+      "keywords": ["pin", "pin icon", "location", "location icon", "marker", "marker icon", "map", "map icon", "place", "place icon", "destination", "destination icon", "navigation", "navigation icon", "gps", "gps icon", "position", "position icon", "map pin", "location pin", "map marker", "geo pin", "geolocation", "address", "address icon", "travel", "travel icon", "waypoint", "waypoint icon", "pinned", "pinned icon", "drop pin", "location marker", "navigation tool", "place marker", "route", "route icon", "tracking", "tracking icon", "find location", "map location", "coordinate", "location UI", "pin UX", "location finder", "geo icon", "pin drop", "area marker", "spot icon", "current location"],
+      "svg": "/static/icons/pin.svg",
+      "rev": "/static/icons/pin.rev",
+      "png": "/static/icons/pin.png",
+      "riv": "/static/icons/pin.riv",
+      "meta": "/static/icons/meta-pin.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon75",
+      "name": "Wallet",
+      "keywords": ["wallet", "wallet icon", "money", "money icon", "payment", "payment icon", "finance", "finance icon", "cash", "cash icon", "credit card", "credit card icon", "debit card", "debit card icon", "purse", "purse icon", "bank", "bank icon", "currency", "currency icon", "money holder", "cash wallet", "digital wallet", "mobile wallet", "e-wallet", "payment method", "finance management", "personal finance", "wallet app", "banking", "banking icon", "payment gateway", "checkout", "checkout icon", "budget", "budget icon", "money storage", "wallet balance", "financial icon", "wallet payment", "secure payment", "wallet system", "online wallet", "transaction", "transaction icon", "expense", "expense icon", "money transfer", "wallet UI", "wallet UX"],
+      "svg": "/static/icons/wallet.svg",
+      "rev": "/static/icons/wallet.rev",
+      "png": "/static/icons/wallet.png",
+      "riv": "/static/icons/wallet.riv",
+      "meta": "/static/icons/meta-wallet.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon76",
+      "name": "Copy",
+      "keywords": ["copy", "copy icon", "duplicate", "duplicate icon", "clone", "clone icon", "file copy", "document copy", "content copy", "clipboard", "clipboard icon", "paste", "paste icon", "copy file", "copy document", "duplicate file", "duplicate document", "replicate", "replicate icon", "copy content", "copy text", "text copy", "copy and paste", "file duplication", "content duplication", "clone file", "copy tool", "copy feature", "copy button", "copy action", "clipboard copy", "text duplication", "copy shortcut", "copy UI", "copy UX", "copy operation", "document duplicate", "copy data", "copy info", "information copy", "clone document", "duplicate content", "save copy", "make a copy", "copy management"],
+      "svg": "/static/icons/copy.svg",
+      "rev": "/static/icons/copy.rev",
+      "png": "/static/icons/copy.png",
+      "riv": "/static/icons/copy.riv",
+      "meta": "/static/icons/meta-copy.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon77",
+      "name": "Ticket",
+      "keywords": ["ticket", "ticket icon", "event ticket", "event pass", "entry ticket", "admission", "admission icon", "pass", "pass icon", "coupon", "coupon icon", "voucher", "voucher icon", "concert ticket", "movie ticket", "travel ticket", "boarding pass", "show ticket", "event entry", "festival ticket", "raffle ticket", "lottery ticket", "ticket stub", "ticket pass", "ticket booking", "ticket reservation", "reserved ticket", "ticket sale", "ticket purchase", "ticket system", "ticket scan", "e-ticket", "digital ticket", "printed ticket", "ticket UI", "ticket UX", "ticket barcode", "entrance ticket", "access ticket", "theater ticket", "performance ticket", "amusement park ticket", "ticketing", "ticket booking icon", "ticket app", "admission pass", "travel pass"],
+      "svg": "/static/icons/ticket.svg",
+      "rev": "/static/icons/ticket.rev",
+      "png": "/static/icons/ticket.png",
+      "riv": "/static/icons/ticket.riv",
+      "meta": "/static/icons/meta-ticket.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon78",
+      "name": "Arrow Up",
+      "keywords": ["arrow up", "arrow up icon", "up arrow", "upward arrow", "up", "up icon", "upward", "direction up", "move up", "scroll up", "navigate up", "ascending", "ascending icon", "increase", "increase icon", "upload", "upload icon", "rise", "rise icon", "growth", "growth icon", "progress up", "upgrade", "upgrade icon", "higher", "higher icon", "uplift", "uplift icon", "top", "top icon", "arrow direction", "arrow navigation", "navigation up", "vertical arrow", "arrowhead up", "go up", "move upward", "elevate", "elevate icon", "position up", "top arrow", "shift up", "arrow climb", "up indicator", "arrow UI", "arrow UX", "up signal", "forward up", "advance upward"],
+      "svg": "/static/icons/arrow-up.svg",
+      "rev": "/static/icons/arrow-up.rev",
+      "png": "/static/icons/arrow-up.png",
+      "riv": "/static/icons/arrow-up.riv",
+      "meta": "/static/icons/meta-arrow-up.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon79",
+      "name": "Arrow Down",
+      "keywords": ["arrow down", "arrow down icon", "down arrow", "downward arrow", "down", "down icon", "downward", "direction down", "move down", "scroll down", "navigate down", "descending", "descending icon", "decrease", "decrease icon", "download", "download icon", "drop", "drop icon", "decline", "decline icon", "lower", "lower icon", "downgrade", "downgrade icon", "bottom", "bottom icon", "fall", "fall icon", "slide down", "downshift", "move downward", "go down", "reduce", "reduce icon", "arrow direction", "arrow navigation", "navigation down", "vertical arrow", "arrowhead down", "position down", "bottom arrow", "shift down", "arrow descent", "down indicator", "arrow UI", "arrow UX"],
+      "svg": "/static/icons/arrow-down.svg",
+      "rev": "/static/icons/arrow-down.rev",
+      "png": "/static/icons/arrow-down.png",
+      "riv": "/static/icons/arrow-down.riv",
+      "meta": "/static/icons/meta-arrow-down.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon80",
+      "name": "Arrow Right",
+      "keywords": ["arrow right", "arrow right icon", "right arrow", "rightward arrow", "right", "right icon", "rightward", "direction right", "move right", "navigate right", "scroll right", "next", "next icon", "forward", "forward icon", "proceed", "proceed icon", "advance", "advance icon", "continue", "continue icon", "arrow navigation", "arrow direction", "horizontal arrow", "go right", "shift right", "move forward", "arrowhead right", "slide right", "right movement", "forward movement", "navigation arrow", "forward navigation", "right scroll", "step forward", "arrow UX", "arrow UI", "swipe right", "progress right", "right direction", "page forward", "next step", "next page", "arrow indicator"],
+      "svg": "/static/icons/arrow-right.svg",
+      "rev": "/static/icons/arrow-right.rev",
+      "png": "/static/icons/arrow-right.png",
+      "riv": "/static/icons/arrow-right.riv",
+      "meta": "/static/icons/meta-arrow-right.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon81",
+      "name": "Arrow Left",
+      "keywords": ["arrow left", "arrow left icon", "left arrow", "leftward arrow", "left", "left icon", "leftward", "direction left", "move left", "navigate left", "scroll left", "previous", "previous icon", "back", "back icon", "return", "return icon", "rewind", "rewind icon", "reverse", "reverse icon", "arrow navigation", "arrow direction", "horizontal arrow", "go left", "shift left", "move backward", "arrowhead left", "slide left", "left movement", "backward movement", "navigation arrow", "back navigation", "left scroll", "step back", "arrow UX", "arrow UI", "swipe left", "progress left", "left direction", "page back", "previous page", "arrow indicator"],
+      "svg": "/static/icons/arrow-left.svg",
+      "rev": "/static/icons/arrow-left.rev",
+      "png": "/static/icons/arrow-left.png",
+      "riv": "/static/icons/arrow-left.riv",
+      "meta": "/static/icons/meta-arrow-left.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon82",
+      "name": "Cloud",
+      "keywords": ["cloud", "cloud icon", "weather", "weather icon", "sky", "sky icon", "cloud storage", "cloud computing", "online storage", "cloud upload", "cloud download", "internet storage", "data cloud", "network cloud", "file storage", "digital storage", "backup", "backup icon", "sync", "sync icon", "weather cloud", "cloudy", "cloud network", "data backup", "cloud system", "cloud technology", "online backup", "server cloud", "remote storage", "file backup", "cloud sync", "cloud service", "virtual storage", "internet cloud", "storage icon", "server icon", "cloud infrastructure", "personal cloud", "enterprise cloud", "cloud database", "cloud sharing", "data transfer", "cloud connection", "cloud platform", "cloud interface", "web cloud", "cloud UI", "cloud UX"],
+      "svg": "/static/icons/cloud.svg",
+      "rev": "/static/icons/cloud.rev",
+      "png": "/static/icons/cloud.png",
+      "riv": "/static/icons/cloud.riv",
+      "meta": "/static/icons/meta-cloud.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon83",
+      "name": "WiFi",
+      "keywords": ["wifi", "wifi icon", "wireless", "wireless icon", "internet", "internet icon", "network", "network icon", "signal", "signal icon", "wifi signal", "wifi connection", "wireless connection", "internet connection", "wifi network", "hotspot", "hotspot icon", "router", "router icon", "modem", "modem icon", "online", "online icon", "connect", "connect icon", "connectivity", "wifi access", "wifi strength", "internet signal", "broadband", "broadband icon", "wifi hotspot", "wifi available", "network signal", "internet service", "wifi area", "wireless internet", "wifi router", "wifi system", "wifi zone", "network access", "free wifi", "wifi password", "wifi coverage", "wifi indicator", "wifi UI", "wifi UX"],
+      "svg": "/static/icons/wifi.svg",
+      "rev": "/static/icons/wifi.rev",
+      "png": "/static/icons/wifi.png",
+      "riv": "/static/icons/wifi.riv",
+      "meta": "/static/icons/meta-wifi.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon84",
+      "name": "Login",
+      "keywords": ["login", "login icon", "sign in", "sign in icon", "log in", "log in icon", "enter", "enter icon", "access", "access icon", "user login", "account login", "authentication", "authentication icon", "unlock", "unlock icon", "login screen", "login form", "login button", "secure login", "login interface", "login page", "user access", "signin", "signin icon", "system login", "portal login", "log into", "login credentials", "username and password", "login UI", "login UX", "login action", "entry icon", "account access", "sign in screen", "user authentication", "login step", "online login", "login symbol", "digital login", "web login", "desktop login", "app login", "user entry", "login panel", "login prompt", "security login"],
+      "svg": "/static/icons/login.svg",
+      "rev": "/static/icons/login.rev",
+      "png": "/static/icons/login.png",
+      "riv": "/static/icons/login.riv",
+      "meta": "/static/icons/meta-login.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon85",
+      "name": "Reply",
+      "keywords": ["reply", "reply icon", "respond", "respond icon", "answer", "answer icon", "comment reply", "message reply", "email reply", "reply arrow", "back response", "reply to", "return message", "reply message", "reply action", "conversation reply", "reply button", "respond message", "chat reply", "reply symbol", "quick reply", "reply communication", "communication reply", "reply thread", "reply input", "reply UX", "reply UI", "messaging reply", "reply feature", "email response", "text reply", "direct reply", "inbox reply", "reply function", "back message", "interaction reply", "message respond", "return email", "chat response", "reply direction", "reply link", "message back", "threaded reply", "text respond", "reply communication icon", "arrow back"],
+      "svg": "/static/icons/reply.svg",
+      "rev": "/static/icons/reply.rev",
+      "png": "/static/icons/reply.png",
+      "riv": "/static/icons/reply.riv",
+      "meta": "/static/icons/meta-reply.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon86",
+      "name": "Forward",
+      "keywords": ["forward", "forward icon", "send", "send icon", "next", "next icon", "move forward", "go forward", "forward arrow", "email forward", "message forward", "forward message", "forward mail", "forwarding", "forwarding icon", "continue", "continue icon", "advance", "advance icon", "forward navigation", "chat forward", "forward text", "forward reply", "forward feature", "forward communication", "forward button", "forward action", "navigate forward", "arrow forward", "forward symbol", "mail forward", "redirect", "redirect icon", "resend", "resend icon", "forward message icon", "communication forward", "progress forward", "forward UI", "forward UX", "message routing", "pass along", "email redirect", "conversation forward", "forward icon design", "forward direction"],
+      "svg": "/static/icons/forward.svg",
+      "rev": "/static/icons/forward.rev",
+      "png": "/static/icons/forward.png",
+      "riv": "/static/icons/forward.riv",
+      "meta": "/static/icons/meta-forward.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon87",
+      "name": "Calculator",
+      "keywords": ["calculator", "calculator icon", "math", "math icon", "calculation", "calculation icon", "arithmetic", "numbers", "mathematics", "math tool", "count", "counting", "adding", "subtracting", "multiplying", "dividing", "math device", "electronic calculator", "calculator app", "basic calculator", "scientific calculator", "financial calculator", "math operations", "numeric keypad", "number input", "math helper", "equation", "equation solver", "budget tool", "finance calculator", "math symbols", "math UI", "math UX", "math input", "calculator screen", "math keypad", "calculation tool", "school tool", "office tool", "calculator button", "desktop calculator", "online calculator", "digital calculator", "math solver", "number processor", "math gadget", "calculator icon design"],
+      "svg": "/static/icons/calculator.svg",
+      "rev": "/static/icons/calculator.rev",
+      "png": "/static/icons/calculator.png",
+      "riv": "/static/icons/calculator.riv",
+      "meta": "/static/icons/meta-calculator.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon88",
+      "name": "Envelope",
+      "keywords": ["envelope", "envelope icon", "mail", "mail icon", "email", "email icon", "message", "message icon", "letter", "letter icon", "post", "post icon", "send", "send icon", "inbox", "inbox icon", "communication", "communication icon", "mailbox", "mailbox icon", "postal", "postal icon", "contact", "contact icon", "newsletter", "newsletter icon", "email message", "mail message", "paper mail", "open envelope", "closed envelope", "email symbol", "email notification", "email alert", "mail delivery", "mail service", "email UI", "email UX", "digital mail", "send message", "receive message", "messaging", "email client", "email interface", "correspondence", "message send", "message receive", "mail communication", "mail icon design"],
+      "svg": "/static/icons/envelope.svg",
+      "rev": "/static/icons/envelope.rev",
+      "png": "/static/icons/envelope.png",
+      "riv": "/static/icons/envelope.riv",
+      "meta": "/static/icons/meta-envelope.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon89",
+      "name": "Music",
+      "keywords": ["music", "music icon", "audio", "audio icon", "sound", "sound icon", "note", "note icon", "musical note", "music note", "music symbol", "tune", "melody", "song", "track", "playlist", "music file", "mp3", "audio track", "music player", "music app", "music UI", "music UX", "soundtrack", "headphones", "listen", "listening", "music playback", "music streaming", "music service", "musician", "music genre", "sound wave", "music beats", "music control", "musical", "music library", "jukebox", "audio signal", "instrumental", "background music", "music button", "audio UI", "music feature", "stream music", "online music", "music sharing", "music interface"],
+      "svg": "/static/icons/music.svg",
+      "rev": "/static/icons/music.rev",
+      "png": "/static/icons/music.png",
+      "riv": "/static/icons/music.riv",
+      "meta": "/static/icons/meta-music.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon90",
+      "name": "Price",
+      "keywords": ["price", "price icon", "tag", "tag icon", "price tag", "label", "label icon", "cost", "cost icon", "discount", "discount icon", "sale", "sale icon", "pricing", "pricing icon", "offer", "offer icon", "deal", "deal icon", "promo", "promo icon", "special offer", "price label", "price sticker", "shopping tag", "store price", "retail tag", "commerce", "ecommerce", "ecommerce icon", "product tag", "marketplace", "merchandise tag", "store icon", "price badge", "buy tag", "price symbol", "tagged item", "product pricing", "price UI", "price UX", "online price", "shop tag", "label sticker", "price info", "pricing detail", "cost label", "price mark", "item price"],
+      "svg": "/static/icons/price.svg",
+      "rev": "/static/icons/price.rev",
+      "png": "/static/icons/price.png",
+      "riv": "/static/icons/price.riv",
+      "meta": "/static/icons/meta-price.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon91",
+      "name": "Sticker",
+      "keywords": ["sticker", "sticker icon", "label", "label icon", "tag", "tag icon", "emoji", "emoji icon", "fun", "fun icon", "decorative", "decorative icon", "graphic", "graphic icon", "illustration", "cute sticker", "cartoon sticker", "icon sticker", "digital sticker", "sticker design", "sticker pack", "sticker set", "fun sticker", "sticker collection", "graphic label", "sticker art", "sticker element", "sticker decoration", "sticker UI", "sticker UX", "visual sticker", "expression sticker", "sticker symbol", "chat sticker", "messaging sticker", "design element", "sticker overlay", "custom sticker", "interactive sticker", "playful icon", "fun visual", "sticker bubble", "personal sticker", "virtual sticker", "digital label", "art sticker"],
+      "svg": "/static/icons/sticker.svg",
+      "rev": "/static/icons/sticker.rev",
+      "png": "/static/icons/sticker.png",
+      "riv": "/static/icons/sticker.riv",
+      "meta": "/static/icons/meta-sticker.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon92",
+      "name": "Attachment",
+      "keywords": ["attachment", "attachment icon", "paperclip", "paperclip icon", "file attachment", "attach file", "email attachment", "document attachment", "clip", "clip icon", "attach", "attach icon", "linked file", "linked document", "send file", "attach document", "message attachment", "attachment symbol", "attachment button", "attach to email", "file clip", "attached media", "attachment link", "attach file icon", "attachment UX", "attachment UI", "attachment feature", "attachment tool", "attach photo", "attach PDF", "attach item", "clip document", "clip file", "email clip", "communication tool", "message clip", "paperclip symbol", "media attachment", "add attachment", "attach content", "document clip", "digital attachment", "attachment element", "attachment tag"],
+      "svg": "/static/icons/attachment.svg",
+      "rev": "/static/icons/attachment.rev",
+      "png": "/static/icons/attachment.png",
+      "riv": "/static/icons/attachment.riv",
+      "meta": "/static/icons/meta-attachment.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon93",
+      "name": "Flag",
+      "keywords": ["flag", "flag icon", "marker", "marker icon", "location flag", "country flag", "national flag", "goal", "goal icon", "milestone", "milestone icon", "alert flag", "report flag", "notification flag", "important", "important icon", "signal flag", "check flag", "flag symbol", "flag banner", "flag post", "flagpole", "map flag", "pinned flag", "flag marker", "flag notification", "event flag", "task flag", "flag label", "flag status", "flag action", "flag UI", "flag UX", "digital flag", "flag design", "goal marker", "achievement flag", "race flag", "finish flag", "flagged item", "flag message", "user flag", "report content", "flag alert", "warning flag", "flagging tool", "signal marker", "tracking flag"],
+      "svg": "/static/icons/flag.svg",
+      "rev": "/static/icons/flag.rev",
+      "png": "/static/icons/flag.png",
+      "riv": "/static/icons/flag.riv",
+      "meta": "/static/icons/meta-flag.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon94",
+      "name": "Heart Rate",
+      "keywords": ["heart rate", "heart rate icon", "heartbeat", "heartbeat icon", "pulse", "pulse icon", "vitals", "vitals icon", "health", "health icon", "medical", "medical icon", "cardio", "cardiogram", "ekg", "ecg", "heart monitor", "heart health", "bpm", "beats per minute", "health tracker", "fitness", "fitness icon", "health app", "health data", "heart rhythm", "wellness", "wellness icon", "vital signs", "heart scan", "monitor heart", "pulse monitor", "heart activity", "medical reading", "biometric", "biometric icon", "smartwatch data", "heart beat sensor", "health monitoring", "wearable health", "heart chart", "heartbeat graph", "real-time pulse", "cardiovascular", "digital health", "body sensor", "heart wave", "health status", "heart signal", "heart function"],
+      "svg": "/static/icons/heart-rate.svg",
+      "rev": "/static/icons/heart-rate.rev",
+      "png": "/static/icons/heart-rate.png",
+      "riv": "/static/icons/heart-rate.riv",
+      "meta": "/static/icons/meta-heart-rate.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon95",
+      "name": "Incognito",
+      "keywords": ["incognito", "incognito icon", "private", "private icon", "privacy", "privacy icon", "anonymous", "anonymous icon", "hidden", "hidden icon", "invisible", "invisible icon", "stealth", "stealth icon", "disguise", "disguise icon", "mask", "mask icon", "secret", "secret icon", "unknown", "unknown user", "private mode", "incognito mode", "browser incognito", "hidden identity", "cloak", "cloak icon", "confidential", "confidential icon", "spy", "spy icon", "detective", "detective icon", "private browsing", "no tracking", "user incognito", "anonymous mode", "stealth mode", "identity hidden", "camouflage", "masked user", "undetectable", "incognito symbol", "incognito UX", "private session", "ghost mode", "user privacy", "secure browsing"],
+      "svg": "/static/icons/incognito.svg",
+      "rev": "/static/icons/incognito.rev",
+      "png": "/static/icons/incognito.png",
+      "riv": "/static/icons/incognito.riv",
+      "meta": "/static/icons/meta-incognito.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon96",
+      "name": "Bot",
+      "keywords": ["bot", "bot icon", "robot", "robot icon", "chatbot", "chatbot icon", "ai bot", "ai icon", "automation", "automation icon", "virtual assistant", "machine", "machine icon", "autonomous", "autonomous icon", "automated system", "bot face", "tech bot", "digital assistant", "robot face", "ai assistant", "customer service bot", "support bot", "conversation bot", "messaging bot", "intelligent bot", "robot head", "machine learning", "bot character", "cyber assistant", "ai character", "talking bot", "digital agent", "virtual helper", "support assistant", "automated helper", "chat robot", "chat ai", "interactive bot", "robot avatar", "smart bot", "bot system", "ai automation", "ai ux", "ai ui", "robot software", "bot controller", "bot UX", "machine assistant"],
+      "svg": "/static/icons/bot.svg",
+      "rev": "/static/icons/bot.rev",
+      "png": "/static/icons/bot.png",
+      "riv": "/static/icons/bot.riv",
+      "meta": "/static/icons/meta-bot.png",
+      "style": "outline"
     }
   ]
   

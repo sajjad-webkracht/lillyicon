@@ -3,6 +3,8 @@ import Layout from "../components/layout"
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import ScrollUp from "../components/scroll_up";
 import Seo from "../components/seo";
+import CookieNotice from "../components/cookie_notice"
+
 
 
 const theme = createTheme({
@@ -40,6 +42,7 @@ const Donate = () => {
                     <ScrollUp />
                 </Layout>
             </main>
+            <CookieNotice />
         </ThemeProvider>
     )
 }

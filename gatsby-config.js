@@ -31,5 +31,13 @@ module.exports = {
         display: 'swap',
       },
     },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-L9700KTXK4"
+        ]
+      },
+    },
   ],
 }

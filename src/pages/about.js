@@ -8,6 +8,8 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import XIcon from '@mui/icons-material/X';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import RiveIcon from '../components/rive_icon';
+import CookieNotice from "../components/cookie_notice"
+
 
 
 const theme = createTheme({
@@ -55,7 +57,7 @@ const About = () => {
                   <RiveIcon url='/static/icons/like.riv' />
                 </div>
                 <div className="bg-blue-500/10 border-blue-500/30 border-[1px] border-solid rounded-md justify-center items-center py-4">
-                  <RiveIcon url='/static/icons/location.riv' />
+                  <RiveIcon url='/static/icons/box.riv' />
                 </div>
                 <div className="w-full h-30 bg-gradient-to-t from-nigra/100 to-nigra/0 absolute bottom-0 left-0 pointer-events-none" />
                 <div className="w-full h-30 bg-gradient-to-b from-nigra/100 to-nigra/0 absolute top-0 left-0 pointer-events-none" />
@@ -120,6 +122,7 @@ const About = () => {
           <ScrollUp />
         </Layout>
       </main>
+      <CookieNotice />
     </ThemeProvider>
   )
 }

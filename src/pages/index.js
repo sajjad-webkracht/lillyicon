@@ -8,6 +8,7 @@ import Grid from "../components/grid";
 import Usage from "../components/usage";
 import ScrollUp from "../components/scroll_up";
 import Seo from "../components/seo";
+import CookieNotice from "../components/cookie_notice"
 
 const theme = createTheme({
   palette: {
@@ -32,6 +33,7 @@ const IndexPage = () => {
           <Usage />
           <Start />
           <ScrollUp />
+          <CookieNotice />
         </Layout>
       </main>
     </ThemeProvider>

@@ -7,6 +7,8 @@ import ExploreRiveIcon from '../components/explore_rive_icon';
 import Download from '../components/download';
 import Seo from "../components/seo";
 import ScrollUp from "../components/scroll_up";
+import CookieNotice from "../components/cookie_notice"
+
 
 
 const theme = createTheme({
@@ -69,6 +71,7 @@ const Icons = ({ data }) => {
         </Layout>
       </main>
       {selectedIcon && <Download icon={selectedIcon} onClose={handleClosePopup} />}
+      <CookieNotice />
     </ThemeProvider>
   )
 }

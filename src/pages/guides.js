@@ -5,6 +5,8 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import ScrollUp from "../components/scroll_up";
 import { guides } from "../content/guides";
 import Seo from "../components/seo";
+import CookieNotice from "../components/cookie_notice"
+
 
 
 const theme = createTheme({
@@ -92,6 +94,7 @@ useEffect(() => {
                     <ScrollUp />
                 </Layout>
             </main>
+            <CookieNotice />
         </ThemeProvider>
     )
 }

@@ -4,6 +4,8 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Layout from "../components/layout"
 import Seo from "../components/seo";
 import Button from '@mui/material/Button';
+import CookieNotice from "../components/cookie_notice"
+
 
 const theme = createTheme({
   palette: {
@@ -31,6 +33,7 @@ const NotFoundPage = () => {
           </div>
         </Layout>
       </main>
+      <CookieNotice />
     </ThemeProvider>
   )
 }
