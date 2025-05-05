@@ -107,7 +107,7 @@ const IconPage = ({ data }) => {
                                 <div className='mt-8'>
                                     <h3 className='text-zinc-50 mb-2 text-sm font-bold'>CC BY 4.0 License</h3>
                                     <p className="text-zinc-400 mb-4">
-                                        This icon is licensed under the <a href='https://creativecommons.org/licenses/by/4.0/' target="_blank" className="underline"> Creative Commons Attribution 4.0 International (CC BY 4.0)</a> license.
+                                        This icon is licensed under the <a href='https://creativecommons.org/licenses/by/4.0/' target="_blank" className="underline"> Creative Commons Attribution 4.0 International (CC BY 4.0)</a> license. This icon is free, but <a href="/donate" className='underline' target='_blank' >donations</a> help keep the project alive. Every bit counts.
                                     </p>
                                 </div>
 

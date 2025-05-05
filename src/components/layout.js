@@ -97,6 +97,7 @@ const Layout = ({ children }) => {
                         <Link to='/icons' className='text-zinc-50 text-sm hover:underline'>Explore Icons</Link>
                         <Link to='/about' className='text-zinc-50 text-sm hover:underline'>About Lilly Icon</Link>
                         <Link to='/donate' className='text-zinc-50 text-sm hover:underline'>Donate</Link>
+                        <Link to='/changelog' className='text-zinc-50 text-sm hover:underline'>Changelog</Link>
                         <Link to='/guides/#licensing' className='text-zinc-50 text-sm hover:underline'>License</Link>
                     </div>
                 </div>
