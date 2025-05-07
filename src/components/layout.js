@@ -91,6 +91,7 @@ const Layout = ({ children }) => {
                         <Link to='/guides' className='text-zinc-50 text-sm hover:underline'>Lilly Icon Guides</Link>
                         <a href='https://rive.app/docs/runtimes' className='text-zinc-50 text-sm hover:underline'>Rive Runtime Documentation</a>
                         <a href='https://rive.app/docs/editor/interface-overview/overview' className='text-zinc-50 text-sm hover:underline'>Rive Editor Documentation</a>
+                        <a href='https://www.figma.com/community/plugin/1501698853335905566/lilly-icon-free-rive-animated-static-icons' className='text-zinc-50 text-sm hover:underline'>Lilly Icon Figma Plugin</a>
                     </div>
                     <div className='w-full md:w-1/5 flex flex-col gap-2'>
                         <h2 className='mb-2 text-sm font-bold text-blue-500'>Project</h2>

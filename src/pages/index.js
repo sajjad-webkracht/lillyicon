@@ -10,6 +10,7 @@ import ScrollUp from "../components/scroll_up";
 import Seo from "../components/seo";
 import Request from "../components/request";
 import Color from "../components/color";
+import Figma from "../components/figma";
 import CookieNotice from "../components/cookie_notice"
 
 const theme = createTheme({
@@ -31,6 +32,7 @@ const IndexPage = () => {
         <Layout>
           <Hero />
           <Format />
+          <Figma />
           <Grid />
           <Usage />
           <Request />

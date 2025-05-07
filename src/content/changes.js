@@ -1,5 +1,12 @@
 export const changes = [
     {
+        title: "Figma Plugin",
+        date: "May 7, 2025",
+        tags: ["Figma", "Tools"],
+        image: "/static/images/7-may-2025.png",
+        description: "The Lilly Icon Figma plugin is now available! Use it to quickly add static versions of icons to your Figma designs—completely free. Developers can later download the animated versions from the website when building the app or website."
+    },
+    {
         title: "Initial Release",
         date: "May 4, 2025",
         tags: ["Website", "Icons"],
