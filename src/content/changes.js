@@ -1,5 +1,12 @@
 export const changes = [
     {
+        title: "8 New Icons",
+        date: "May 26, 2025",
+        tags: ["Icons", "Website"],
+        image: "/static/images/26-may-2025.png",
+        description: "8 new icons have been added, bringing the collection to over 100 icons! The latest additions include “Microphone,” “Command,” “Bluetooth,” “Face ID,” “Caption,” “Git Fork,” “Chip,” and “Support.” All icons are now available for download in .riv, .png, and .svg formats."
+    },
+    {
         title: "Figma Plugin",
         date: "May 7, 2025",
         tags: ["Figma", "Tools"],

@@ -1054,6 +1054,94 @@
       "riv": "/static/icons/bot.riv",
       "meta": "/static/icons/meta-bot.png",
       "style": "outline"
+    },
+    {
+      "id": "icon97",
+      "name": "Support",
+      "keywords": ["support", "support icon", "headset", "headset icon", "customer support", "technical support", "helpdesk", "helpdesk icon", "customer service", "service icon", "online support", "call center", "call icon", "support center", "support agent", "help icon", "chat support", "phone support", "voice support", "user assistance", "live chat", "virtual assistant", "tech help", "audio support", "client service", "customer care", "agent icon", "support representative", "support team", "help service", "user help", "contact support", "service desk", "customer help", "support UI", "support UX", "headphones", "call operator", "service hotline", "issue resolution", "support bot", "call headset", "ticket support", "remote support", "client support", "online help", "call service", "problem solving", "technical help"],
+      "svg": "/static/icons/support.svg",
+      "rev": "/static/icons/support.rev",
+      "png": "/static/icons/support.png",
+      "riv": "/static/icons/support.riv",
+      "meta": "/static/icons/meta-support.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon98",
+      "name": "Chip",
+      "keywords": ["chip", "chip icon", "microchip", "microchip icon", "processor", "processor icon", "cpu", "cpu icon", "hardware", "hardware icon", "technology", "technology icon", "semiconductor", "semiconductor icon", "computer chip", "integrated circuit", "IC", "tech chip", "motherboard", "circuit board", "electronic chip", "digital chip", "silicon chip", "embedded chip", "logic chip", "core processor", "device chip", "tiny chip", "data chip", "chipset", "hardware component", "tech hardware", "circuit icon", "machine chip", "tech UI", "chip UX", "robot chip", "system chip", "electronic component", "AI chip", "smart chip", "nanotech chip", "control chip", "engineering chip", "cyber chip", "neural chip", "chip module"],
+      "svg": "/static/icons/chip.svg",
+      "rev": "/static/icons/chip.rev",
+      "png": "/static/icons/chip.png",
+      "riv": "/static/icons/chip.riv",
+      "meta": "/static/icons/meta-chip.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon99",
+      "name": "Git Fork",
+      "keywords": ["git fork", "git-fork", "fork", "fork icon", "repository fork", "github fork", "repo fork", "code fork", "project fork", "version control", "git", "github", "forked repo", "clone repo", "fork repository", "open source", "software fork", "contribute", "git contribution", "git repo", "forked project", "git collaboration", "devops", "source control", "code versioning", "git icon", "github icon", "fork branch", "git ui", "git ux", "repository copy", "codebase fork", "git symbol", "forked copy", "pull request", "git workflow", "code collaboration", "git network", "versioned code", "development fork", "git branching", "remote fork", "git remote", "fork icon ui", "fork tree", "developer tool", "software versioning", "git visual"],
+      "svg": "/static/icons/git-fork.svg",
+      "rev": "/static/icons/git-fork.rev",
+      "png": "/static/icons/git-fork.png",
+      "riv": "/static/icons/git-fork.riv",
+      "meta": "/static/icons/meta-git-fork.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon100",
+      "name": "Caption",
+      "keywords": ["caption", "caption icon", "subtitles", "subtitles icon", "closed captions", "cc", "cc icon", "video captions", "video subtitles", "text overlay", "media captions", "audio captions", "captioning", "caption track", "caption file", "caption on", "caption toggle", "caption settings", "caption display", "tv captions", "streaming captions", "movie subtitles", "dialog text", "accessibility", "accessibility icon", "hearing impaired", "subtitle button", "caption UX", "caption UI", "caption control", "language support", "multi-language", "text under video", "spoken text", "caption format", "caption layer", "on-screen text", "subtitle display", "caption box", "transcription", "video accessibility", "media accessibility", "caption mode", "caption tag"],
+      "svg": "/static/icons/caption.svg",
+      "rev": "/static/icons/caption.rev",
+      "png": "/static/icons/caption.png",
+      "riv": "/static/icons/caption.riv",
+      "meta": "/static/icons/meta-caption.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon101",
+      "name": "Face ID",
+      "keywords": ["face id", "face id icon", "facial recognition", "facial recognition icon", "biometric", "biometric icon", "face scan", "face scanner", "face unlock", "face detection", "identity scan", "face recognition", "3d face scan", "secure login", "face login", "security", "security icon", "mobile unlock", "smartphone face id", "authentication", "biometric security", "face authentication", "face biometrics", "facial unlock", "biometric unlock", "face id technology", "device unlock", "face reader", "scan face", "face identity", "digital id", "secure access", "unlock with face", "face check", "scan to unlock", "passwordless login", "identity verification", "facial ID", "id scan", "face verification", "camera scan", "face ui", "biometric ui", "authentication icon", "user scan", "face security", "device face id"],
+      "svg": "/static/icons/face-id.svg",
+      "rev": "/static/icons/face-id.rev",
+      "png": "/static/icons/face-id.png",
+      "riv": "/static/icons/face-id.riv",
+      "meta": "/static/icons/meta-face-id.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon102",
+      "name": "Bluetooth",
+      "keywords": ["bluetooth", "bluetooth icon", "wireless", "wireless icon", "bluetooth connection", "bluetooth device", "bluetooth signal", "bluetooth logo", "bluetooth symbol", "bluetooth technology", "bluetooth pairing", "bluetooth enabled", "wireless technology", "wireless transfer", "data transfer", "file sharing", "connectivity", "device connection", "signal", "signal icon", "pairing mode", "bluetooth network", "bluetooth headset", "bluetooth speaker", "wireless audio", "short-range wireless", "bluetooth control", "bluetooth UI", "bluetooth UX", "mobile bluetooth", "PC bluetooth", "bluetooth settings", "enable bluetooth", "disable bluetooth", "bluetooth toggle", "bluetooth status", "bluetooth communication", "bluetooth symbol icon", "device pairing", "connect bluetooth", "wireless sync", "bluetooth interface", "wireless protocol"],
+      "svg": "/static/icons/bluetooth.svg",
+      "rev": "/static/icons/bluetooth.rev",
+      "png": "/static/icons/bluetooth.png",
+      "riv": "/static/icons/bluetooth.riv",
+      "meta": "/static/icons/meta-bluetooth.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon103",
+      "name": "Command",
+      "keywords": ["command", "command icon", "command key", "mac command", "mac key", "⌘", "cmd", "cmd icon", "keyboard command", "mac shortcut", "mac keyboard", "shortcut key", "keyboard shortcut", "modifier key", "macOS command", "apple command", "mac input", "macOS", "keyboard icon", "hotkey", "mac modifier", "command symbol", "mac function key", "apple shortcut", "command UI", "command UX", "command control", "mac shortcut key", "mac command button", "command function", "system command", "apple UI", "macOS interface", "mac control", "key symbol", "input key", "mac key symbol", "command hotkey"],
+      "svg": "/static/icons/command.svg",
+      "rev": "/static/icons/command.rev",
+      "png": "/static/icons/command.png",
+      "riv": "/static/icons/command.riv",
+      "meta": "/static/icons/meta-command.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon104",
+      "name": "Microphone",
+      "keywords": ["microphone", "microphone icon", "mic", "mic icon", "voice", "voice input", "audio input", "sound input", "record", "recording", "recording icon", "voice recording", "audio recording", "speech", "speech input", "mic symbol", "mic button", "podcast", "podcasting", "broadcast", "audio", "audio capture", "microphone UI", "mic UX", "voice UI", "live audio", "streaming", "audio stream", "mic control", "mute button", "sound", "sound icon", "audio icon", "mic on", "voice capture", "voice assistant", "talk button", "voice recognition", "mic enabled", "microphone enabled", "live mic", "sound input icon", "mic feature", "mic toggle", "audio system", "record audio"],
+      "svg": "/static/icons/microphone.svg",
+      "rev": "/static/icons/microphone.rev",
+      "png": "/static/icons/microphone.png",
+      "riv": "/static/icons/microphone.riv",
+      "meta": "/static/icons/meta-microphone.png",
+      "style": "outline"
     }
   ]
   
