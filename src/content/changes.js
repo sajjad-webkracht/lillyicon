@@ -1,5 +1,12 @@
 export const changes = [
     {
+        title: "New Icons & Bug Fixes",
+        date: "June 28, 2025",
+        tags: ["Icons", "Website"],
+        image: "/static/images/28-june-2025.png",
+        description: "8 new icons have been added, bringing the collection to over 110 icons! The latest additions include “USD,” “Pound,” “Euro,” “Paid,” “Alien,” “Truck,” “Video Camera,” and “At Sign.” All icons are now available for download in .riv, .png, and .svg formats. Additionally, some small bugs were fixed."
+    },
+    {
         title: "8 New Icons",
         date: "May 26, 2025",
         tags: ["Icons", "Website"],

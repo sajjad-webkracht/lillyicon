@@ -684,7 +684,7 @@
     {
       "id": "icon63",
       "name": "Translate",
-      "keywords": ["bank", "bank icon", "financial", "financial icon", "finance", "finance icon", "money", "money icon", "institution", "institution icon", "building", "building icon", "government", "government icon", "vault", "vault icon", "savings", "savings icon", "deposit", "deposit icon", "withdraw", "withdraw icon", "cash", "cash icon", "currency", "currency icon", "account", "account icon", "safe", "safe icon", "banking", "banking icon", "bank building", "bank structure", "money center", "financial center", "economy", "economy icon", "funds", "funds icon", "monetary", "monetary icon", "business", "business icon", "central bank", "commercial bank", "investment bank", "bank office", "financial institution", "capital", "public bank", "brick bank", "bank icon design", "bank UI", "bank UX"],
+      "keywords": ["translation", "translation icon", "translate", "translate icon", "language", "language icon", "language translation", "text translation", "document translation", "multilingual", "multilingual icon", "global language", "international language", "language switch", "language change", "translation tool", "translation service", "translator", "translator icon", "language support", "translate text", "language options", "language settings", "language converter", "text converter", "world language", "language assistance", "automatic translation", "machine translation", "language feature", "translation feature", "translate symbol", "language UI", "language UX", "language accessibility"],
       "svg": "/static/icons/translate.svg",
       "rev": "/static/icons/translate.rev",
       "png": "/static/icons/translate.png",
@@ -1141,6 +1141,94 @@
       "png": "/static/icons/microphone.png",
       "riv": "/static/icons/microphone.riv",
       "meta": "/static/icons/meta-microphone.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon105",
+      "name": "Paid",
+      "keywords": ["paid", "paid icon", "payment", "payment icon", "paid status", "transaction", "transaction icon", "successful payment", "completed payment", "payment confirmed", "payment success", "payment received", "invoice paid", "bill paid", "paid stamp", "paid label", "money received", "payment complete", "payment approved", "paid badge", "finance", "finance icon", "money", "money icon", "payment mark", "paid confirmation", "financial status", "paid indicator", "billing", "billing icon", "payment status", "paid approved", "payment record", "paid confirmation icon"],
+      "svg": "/static/icons/paid.svg",
+      "rev": "/static/icons/paid.rev",
+      "png": "/static/icons/paid.png",
+      "riv": "/static/icons/paid.riv",
+      "meta": "/static/icons/meta-paid.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon106",
+      "name": "Video Camera",
+      "keywords": ["video camera", "video camera icon", "camera", "camera icon", "video recording", "record video", "film", "film camera", "movie camera", "camcorder", "video shoot", "video capture", "video device", "recording device", "video icon", "camera recording", "camera filming", "video stream", "video streaming", "live video", "live recording", "video content", "camera UI", "video UX", "video equipment", "media recording", "media camera", "camera feature", "video symbol", "capture video", "film icon", "stream video", "broadcast video", "video production"],
+      "svg": "/static/icons/video-camera.svg",
+      "rev": "/static/icons/video-camera.rev",
+      "png": "/static/icons/video-camera.png",
+      "riv": "/static/icons/video-camera.riv",
+      "meta": "/static/icons/meta-video-camera.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon107",
+      "name": "Truck",
+      "keywords": ["truck", "truck icon", "shipment", "shipment icon", "delivery", "delivery icon", "shipping", "shipping icon", "cargo", "cargo icon", "freight", "freight icon", "transport", "transport icon", "logistics", "logistics icon", "delivery truck", "shipping truck", "freight truck", "cargo truck", "transport truck", "package delivery", "parcel delivery", "express delivery", "shipping service", "delivery service", "shipping vehicle", "delivery vehicle", "truck shipment", "truck delivery", "logistics truck", "goods transport", "goods delivery", "delivery logistics", "truck symbol", "shipping company", "cargo transport"],
+      "svg": "/static/icons/truck.svg",
+      "rev": "/static/icons/truck.rev",
+      "png": "/static/icons/truck.png",
+      "riv": "/static/icons/truck.riv",
+      "meta": "/static/icons/meta-truck.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon108",
+      "name": "Alien",
+      "keywords": ["alien", "alien icon", "ufo", "ufo icon", "extraterrestrial", "extraterrestrial icon", "space", "space icon", "alien face", "alien head", "martian", "martian icon", "outer space", "sci-fi", "science fiction", "space creature", "alien creature", "ufo sighting", "alien life", "alien being", "extraterrestrial life", "space being", "alien symbol", "ufo symbol", "space exploration", "unknown creature", "space mystery", "alien emoji", "cosmic", "cosmic icon", "unidentified object", "alien illustration", "alien cartoon", "space invader", "galaxy", "galaxy icon"],
+      "svg": "/static/icons/alien.svg",
+      "rev": "/static/icons/alien.rev",
+      "png": "/static/icons/alien.png",
+      "riv": "/static/icons/alien.riv",
+      "meta": "/static/icons/meta-alien.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon109",
+      "name": "At Sign",
+      "keywords": ["at sign", "at sign icon", "at symbol", "at symbol icon", "email", "email icon", "contact", "contact icon", "communication", "communication icon", "email address", "username", "email symbol", "internet", "internet icon", "online", "online icon", "digital communication", "at character", "email input", "email handle", "at mark", "at icon", "web address", "online contact", "at logo", "internet symbol", "email feature", "contact feature", "email UI", "contact UI", "email UX", "contact UX", "email tag", "username symbol", "email identifier"],
+      "svg": "/static/icons/at-sign.svg",
+      "rev": "/static/icons/at-sign.rev",
+      "png": "/static/icons/at-sign.png",
+      "riv": "/static/icons/at-sign.riv",
+      "meta": "/static/icons/meta-at-sign.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon110",
+      "name": "Euro",
+      "keywords": ["euro", "euro icon", "euro symbol", "euro currency", "currency", "currency icon", "money", "money icon", "finance", "finance icon", "european currency", "euro money", "euro sign", "euro mark", "financial icon", "banking", "banking icon", "currency symbol", "europe", "europe icon", "payment", "payment icon", "euro payment", "money symbol", "finance symbol", "euro price", "euro amount", "cash", "cash icon", "money exchange", "currency exchange", "foreign currency", "euro economy", "monetary icon", "euro funds", "euro financial"],
+      "svg": "/static/icons/euro.svg",
+      "rev": "/static/icons/euro.rev",
+      "png": "/static/icons/euro.png",
+      "riv": "/static/icons/euro.riv",
+      "meta": "/static/icons/meta-euro.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon111",
+      "name": "Pound",
+      "keywords": ["pound", "pound icon", "pound symbol", "british pound", "british pound icon", "pound sterling", "pound sterling icon", "currency", "currency icon", "money", "money icon", "finance", "finance icon", "uk currency", "british currency", "gbp", "gbp icon", "pound sign", "pound mark", "financial icon", "banking", "banking icon", "currency symbol", "payment", "payment icon", "pound payment", "money symbol", "finance symbol", "pound price", "pound amount", "cash", "cash icon", "money exchange", "currency exchange", "foreign currency", "pound economy", "monetary icon", "pound funds", "pound financial"],
+      "svg": "/static/icons/pound.svg",
+      "rev": "/static/icons/pound.rev",
+      "png": "/static/icons/pound.png",
+      "riv": "/static/icons/pound.riv",
+      "meta": "/static/icons/meta-pound.png",
+      "style": "outline"
+    },
+    {
+      "id": "icon112",
+      "name": "USD",
+      "keywords": ["usd", "usd icon", "usd symbol", "dollar", "dollar icon", "dollar symbol", "us dollar", "us dollar icon", "currency", "currency icon", "money", "money icon", "finance", "finance icon", "usd currency", "dollar currency", "dollar sign", "dollar mark", "financial icon", "banking", "banking icon", "currency symbol", "payment", "payment icon", "dollar payment", "money symbol", "finance symbol", "dollar price", "dollar amount", "cash", "cash icon", "money exchange", "currency exchange", "foreign currency", "usd economy", "monetary icon", "dollar funds", "dollar financial"],
+      "svg": "/static/icons/usd.svg",
+      "rev": "/static/icons/usd.rev",
+      "png": "/static/icons/usd.png",
+      "riv": "/static/icons/usd.riv",
+      "meta": "/static/icons/meta-usd.png",
       "style": "outline"
     }
   ]
